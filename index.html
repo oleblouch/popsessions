@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Pop Sessions</title>
+		<link rel="stylesheet" href="style.css">
+		<script src="jquery-3.7.1.min-2.js"></script>
+		<script src="chords.js"></script>
+	</head>
+	<body class="flex-col root" style="overflow-y: hidden;">
+		<!--<h1 class="leaf">Pop Session !</h1>-->
+		<form class="chords flex-row flex-grow" data-chords-input=".chords-input" style="overflow-y: hidden;">
+			<textarea class="chords-input leaf s6" style="resize: none;" hidden></textarea>
+			<div class="flex-col s6" style="overflow-y: hidden; width: 100%;">
+				<div class="flex-row flex-wrap">
+
+					<select class="ncolumns leaf" id="ncolumns">
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+					</select>
+
+					<select class="leaf" id="songs"/>
+					
+					<select class="chords-dir leaf"></select>
+					<select class="chords-diatonic leaf"></select>
+					<select class="chords-primary leaf"></select>
+					<select class="chords-secondary leaf"></select>
+					<select class="chords-src leaf"></select>
+					<select class="chords-dst leaf"></select>
+					<button type="submit" class="chords-show leaf">show</button>
+					<!--<button type="button" class="chords-hide leaf">hide</button>-->
+					<button type="button" class="chords-larger leaf">&plus;</button>
+					<button type="button" class="chords-smaller leaf">&minus;</button>
+					<!-- <button type="button" class="chords-copy leaf">copy</button> -->
+					<span class="chords-copied leaf">copied!</span>
+				</div>
+				<div class="chords-text leaf" style="font-family: monospace; overflow-y: auto; width: 100%;"></div>
+			</div>
+		</form>
+	</body>
+	<script>
+        $(document).ready(function () {
+
+			$.ajax({
+				url: "/songs/",
+				success: function(data){
+					$(data).find("a").each(function(i,f){      
+						path = $(f).attr("href");
+						name = path.replace('.txt','').replace(/-/g,' - ').replace(/_/g,' ');
+						name = name.replace('%27','').replace('%26','&').replace('%28','(').replace('%29',')');
+						$('#songs').append('<option value=songs/' + path + '>' + name + '</option>');
+					});
+				}
+			}); 
+
+			$('#ncolumns').on('change',function () {
+				$('.chords-text').css('--ncols', $('#ncolumns').val());
+			});
+
+            $('#songs').on('change', function() {
+                var value = $(this).val();
+                $.ajax({
+					url: value,
+					success: function (txt){
+						
+						var max_n_chars = 0;
+						var lines = txt.split("\n");
+						n_lines = lines.length;
+						$(lines).each(function(i,line) {
+							if( line.length > max_n_chars ) {
+								max_n_chars = line.length;
+							}
+						});
+
+						console.log(max_n_chars);
+						console.log(n_lines);
+
+						$('.chords-text').css('column-width', max_n_chars*5);
+
+						$('.chords-input').text(txt);
+						$('.chords-show').click();
+					}
+				});
+            });
+
+        });
+    </script>
+</html>
