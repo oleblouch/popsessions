@@ -46,7 +46,7 @@ body {
 	/*column-count: var(--ncols);*/
 	column-gap: 40px;
 	column-rule-style: solid;
-	column-width: 100px;
-	width: 100%;
+	//column-width: 100px;
+	//width: 100%;
 	height: 100%;
 }

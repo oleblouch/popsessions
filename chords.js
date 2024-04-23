@@ -237,7 +237,8 @@ function chords(selector, options = {}) {
 				// initialize
 				obj.hide.hide();
 				obj.text.css('display', 'block')
-					.css('white-space', 'pre');
+					.css('white-space', 'pre-wrap');
+					//.css('white-space', 'pre');
 				obj.larger.hide();
 				obj.smaller.hide();
 				obj.copy.hide();
