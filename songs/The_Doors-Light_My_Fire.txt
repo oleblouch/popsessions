@@ -95,25 +95,3 @@ F              C        D  D
 Try to set the night on fi re 
 
 G D   F Bb   Eb Ab   A   A
-
-* It has been suggested that Am7 can / should be substitued for Am
-  It has been suggested that F#m7 can / should be substitued for F#m
-
-** Alternate:
-
-Capo II
-
-Am  = Gm
-F#m = Em
-G   = F
-A   = G
-D   = C
-E   = D
-E7  = D7
-F   = Eb
-C   = Bb
-B   = A
-Bb  = G#
-Ab  = F#
-
-Set8
