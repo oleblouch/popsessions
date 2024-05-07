@@ -9,7 +9,7 @@
 	</head>
 	<body class="flex-col root" style="overflow-y: hidden;">
 		<!--<h1 class="leaf">Pop Session !</h1>-->
-		<form class="chords flex-row flex-grow" data-chords-input=".chords-input" style="overflow-y: hidden;">
+		<form class="chords flex-row flex-grow" data-chords-input=".chords-input" style="overflow-y: scroll;">
 			<textarea class="chords-input leaf s6" style="resize: none;" hidden></textarea>
 			<div class="flex-col s6" style="overflow-y: hidden; width: 100%;">
 				<div class="flex-row flex-wrap">
@@ -17,11 +17,12 @@
 					<select class="ncolumns leaf" id="ncolumns">
 						<option value="1">1</option>
 						<option value="2">2</option>
-						<option value="3">3</option>
+						<option value="3" selected="selected">3</option>
 						<option value="4">4</option>
 					</select>
 
 					<select class="leaf" id="songs"/>
+					
 					
 					<select class="chords-dir leaf"></select>
 					<select class="chords-diatonic leaf"></select>
@@ -33,6 +34,7 @@
 					<!--<button type="button" class="chords-hide leaf">hide</button>-->
 					<button type="button" class="chords-larger leaf">&plus;</button>
 					<button type="button" class="chords-smaller leaf">&minus;</button>
+					<button type="button" class="leaf youtube">YouTube</button>
 					<!-- <button type="button" class="chords-copy leaf">copy</button> -->
 					<span class="chords-copied leaf">copied!</span>
 				</div>
@@ -51,6 +53,8 @@
 						name = path.replace('.txt','').replace(/-/g,' - ').replace(/_/g,' ');
 						name = name.replace('%27','').replace('%26','&').replace('%28','(').replace('%29',')');
 						$('#songs').append('<option value=songs/' + path + '>' + name + '</option>');
+
+						$('#songs').trigger('change');
 					});
 				}
 			}); 
@@ -85,6 +89,11 @@
 				});
             });
 
+			// search on youtube
+			$('.youtube').on('click', function() {
+				keywords = $("#songs :selected").text();
+				window.open('https://www.youtube.com/results?search_query='+keywords, '_blank').focus();
+			});
         });
     </script>
 </html>
