@@ -46,8 +46,8 @@
         $(document).ready(function () {
 
 			$.getJSON( "songs.json", function( data ) {
-				$(data).each(function(i,line){      
-					console.log(line);
+
+				$(data).each(function(i,line){
 					artist = line['name'][0].replace(/_/g,' ');
 					title = line['name'][1].replace(/_/g,' ');
 					name = artist + ' - ' + title;
