@@ -46,7 +46,7 @@
         $(document).ready(function () {
 
 			$.ajax({
-				url: "/popsessions/songs/",
+				url: "/songs/",
 				success: function(data){
 					$(data).find("a").each(function(i,f){      
 						path = $(f).attr("href");
