@@ -45,20 +45,6 @@
 	<script>
         $(document).ready(function () {
 
-			$.getJSON( "songs.json", function( data ) {
-				$(data).each(function(i,line){      
-					console.log(line);
-					artist = line['name'][0].replace(/_/g,' ');
-					title = line['name'][1].replace(/_/g,' ');
-					name = artist + ' - ' + title;
-					path = line['path']
-					$('#songs').append('<option value=' + path + '>' + name + '</option>');
-
-					$('#songs').trigger('change');
-				});
-			});
-
-			/*
 			$.ajax({
 				url: "/songs/",
 				success: function(data){
@@ -71,7 +57,7 @@
 						$('#songs').trigger('change');
 					});
 				}
-			}); */ 
+			}); 
 
 			$('#ncolumns').on('change',function () {
 				$('.chords-text').css('--ncols', $('#ncolumns').val());
