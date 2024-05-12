@@ -46,7 +46,7 @@
         $(document).ready(function () {
 
 			$.ajax({
-				url: "/songs/",
+				url: "/posessions/songs/",
 				success: function(data){
 					$(data).find("a").each(function(i,f){      
 						path = $(f).attr("href");
