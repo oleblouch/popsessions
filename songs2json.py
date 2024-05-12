@@ -5,7 +5,7 @@ import glob
 
 txts = glob.glob('songs/*.txt')
 
-songs = [ { 'name':os.path.basename(x).replace('.txt','').split('-'), 'path':x } for x in txts ]
+songs = [ { 'name':os.path.basename(x).replace('.txt','').split('-'), 'path':x } for x in sorted(txts) ]
 
 with open('songs.json','wt') as f:
     json.dump(songs,f)
