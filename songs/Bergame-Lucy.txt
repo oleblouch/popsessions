@@ -18,7 +18,7 @@ Beneath an evening moon.
 
 [CHORUS]
 
-Em          EmMaj7/Eb
+Em          Em/Eb
 Upon the moon I fix'd my eye,
 	Em7/C	        A
 All over the wide lea;
@@ -39,13 +39,13 @@ On the descending moon.
 
 [CHORUS]
 
-Dm          Dm/C#
+Em          Em/C#
 Upon the moon I fix'd my eye,
-	Dm7/C	        G
+	Em7/C	        A
 All over the wide lea;
-	Bb				F
+	C				G
 With quickening pace my horse drew nigh
-	Gm		C	C7
+	Am		D	D7
 Those paths so dear to me.
 
 My horse moved on; hoof after hoof
