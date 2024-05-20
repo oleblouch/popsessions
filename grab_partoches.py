@@ -5,7 +5,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-def parse_url(url, output_dir):
+def parse_url(url, output_dir, overwrite=False):
     html_text = requests.get(url).text
     soup = BeautifulSoup(html_text, 'html.parser')
 
@@ -33,6 +33,10 @@ def parse_url(url, output_dir):
     txt = re.sub(r'\[\/tab\]', r'', txt)
 
     fname = f'{args.output_dir}/{artist_name.replace(" ","_")}-{song_name.replace(" ","_")}.txt'
+    
+    if os.path.isfile(fname) and not overwrite:
+        return
+
     with open(fname,'wt') as f:
         #f.write(f'{artist_name} - {song_name}\n\n')
         f.write(f'{txt}\n')
@@ -45,6 +49,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--output-dir','-o',default='songs')
+    parser.add_argument('--overwrite',default=False,action='store_true')
     parser.add_argument('urls')
     args = parser.parse_args()
 
@@ -55,4 +60,4 @@ if __name__ == '__main__':
 
     for url in urls:
         #print(f'PARSE: {url}')
-        parse_url(url, output_dir=args.output_dir)
+        parse_url(url, output_dir=args.output_dir, overwrite=args.overwrite)
