@@ -48,8 +48,9 @@
 			$.getJSON( "songs.json", function( data ) {
 
 				$(data).each(function(i,line){
-					artist = line['name'][0].replace(/_/g,' ');
-					title = line['name'][1].replace(/_/g,' ');
+					artist = line['name'].slice(0,line['name'].length - 1).join("-").replace(/_/g,' ');
+					title = line['name'][line['name'].length - 1].replace(/_/g,' ');
+
 					name = artist + ' - ' + title;
 					path = line['path']
 					$('#songs').append('<option value=' + path + '>' + name + '</option>');

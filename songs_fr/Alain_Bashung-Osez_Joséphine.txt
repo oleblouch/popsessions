@@ -1,20 +1,3 @@
-Date: Sun, 14 Jun 1998 20:16:20 +0100
-From: Pierre CECCHINI 
-Subject: b/bashung_alain/osez_josephine.crd
-
-Alain BASHUNG
-
-OSEZ JOSEPHINE
---------------
-(bashung-fauque/bashung)
-
-Album : Osez Josephine,1991
-
-D : X00232
-G : 320003
-A : X02220
-
-
 [Intro]
 
 D

@@ -1,18 +1,3 @@
-Foule Sentimentale  
-Alain Souchon
-C'est déjà ça (1993)
-
-Rythmique : BHBH
-
-[Chords]
-Em  022000
-Am  x02210
-D7  xx0212
-B7  x21202
-C   x32010
-D   xx0232
-Am7 x02010
-
 [Intro]
 Em      Am       D7      B7
 Em      C        Am      B7

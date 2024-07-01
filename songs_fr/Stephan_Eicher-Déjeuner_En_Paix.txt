@@ -1,17 +1,3 @@
-Paroles écrites par Philippe Djian, musique composée par Stephan Eicher, parue sur l'album Engelberg en 1991
-
-[Chords]
-Bm9         x20222 or 797779           D           xx0232 or x57775
-Bm          x24432 or 799777           DMaj7/C#    x40232 or x44776     
-G9          300001 or 353435           Bm          x24432 or 799777
-G           320003 or 355433           Bm7/A       524232 or xx7777
-A6          x02222 or xx7675           
-A           x02220 or 577655           
-F#7sus4     222422                     
-Bm11        x20200 or 777779           
-
-A/C#        x4222x or 9779xx 
-
 [Intro]
 Bm9   Bm   G9   G   A6   A   F#7sus4
 Bm11  Bm   G9   G   A6   A   F#7sus4

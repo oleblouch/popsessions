@@ -1,24 +1,3 @@
-----------------------------------------------------------------------------------------------------
-                               Les Innocents - Un Monde Parfait 
-----------------------------------------------------------------------------------------------------
-
-Album : Post-Partum (1995)
-Tempo : 130
-E-mail: gwendal.mollo@orange.fr
-Tabbed by: newg (basé sur le fichier guitar pro)
-
-Capo 4 
-
-Pour les débutants, utiliser la fonction "simplification des accords" du site
-Voir aussi ma tab Guitar pro
-
-Intro :                 Couplets :              Refrains :
-Dm/F      : 100231      Bdim      : x2343x          
-A#7(no5)  : x1013x      C/E       : 032010      F(b5)     : 12320x
-Gm6       : 3xx333                              D         : x5423x
-Dm7       : xx0212                              Fmadd#11  : 123111
-Dsus4     : xx0233 
-
 [Intro]
 Dm/F  A#7(no5) Gm6  Dm7 Dsus4   x2   
                           
