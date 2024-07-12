@@ -316,9 +316,26 @@ function chords(selector, options = {}) {
 					const lines_old = data.split(/\n|\r\n|\r|\n\r/);
 					const lines_new = [];
 					lines_old.forEach(line => {
+						line = line.replace('\t','    ')
 						let ws = line.match(/\s/g);
 						ws = (ws !== null) ? ws.length : 0;
-						const is_chords = line.length ? (ws / line.length >= .5) : false;
+						var is_chords = line.length ? (ws / line.length >= .5) : false;
+						if (!is_chords) {
+							// harder test
+							const chord_re = new RegExp("[A-G].*");
+							const words = line.split(" ");
+							var max_len = 0;
+							var all_chords = true;
+							words.forEach( function(str) {
+								if(str.length > 5) {
+									all_chords = false;
+								}
+								if((str != "") && (!str.match(chord_re))) {
+									all_chords = false;
+								}
+							});
+							is_chords = all_chords;
+						}
 						if (is_chords) {
 							let offset = 0;
 							const miter = line.matchAll(transposer._re);

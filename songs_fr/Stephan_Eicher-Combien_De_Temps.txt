@@ -5,23 +5,24 @@ Db   Bbm   Gb   Ab
 Db   Bbm   Gb   Ab   Db
 
 [Verse 1]
-Db
+
+Db                                
 L'ombre de mes cils un seul regard
 Bbm                      Gb          Ab
 L'ombre de mes cils comme un rempart
-Db
+Db                                
 Le plaisir facile les amours d'un soir
 Bbm                         Gb                  Ab
  Meurent d'un oubli subtil dans le nœud d'un foulard
 
 [Chorus]
-Db
+Db                                
  Combien de temps combien de temps
       Bbm                            Gb
 Si on restait face à face sans un mot
              Ab         Db
 Sans une gomme qui efface
-Db
+Db                                
  Combien de temps combien de temps
        Bbm
 Et je bois je bois
@@ -29,7 +30,7 @@ Et je bois je bois
 Et je suis saoul de toi saoul de toi
 
  [Verse 2]
-Db
+Db                                
 L'ombre de mes cris flèches invisibles
 Bbm                     Gb       Ab
 L'ombre de mes cris comme une cible
@@ -39,13 +40,13 @@ Bbm                     Gb         Ab      Db
  A vos questions futiles je réponds au hasard
 
 [Chorus]
-Db
+Db                                
  Combien de temps combien de temps
       Bbm                            Gb
 Si on restait face à face sans un mot
              Ab         Db
 Sans une gomme qui efface
-Db
+Db                                
  Combien de temps combien de temps
        Bbm
 Et je bois je bois
@@ -65,31 +66,31 @@ Gb             Db/F           Ab
 Combien de temps
 
 [Instrumental]
-Db
+Db                                
 Db   Bbm   Gb   Ab
 Db   Bbm   Gb   Ab
 
 [Chorus]
-Db
+Db                                
  Combien de temps combien de temps
       Bbm                            Gb
 Si on restait face à face sans un mot
              Ab         Db
 Sans une gomme qui efface
-Db
+Db                                
 Combien de temps combien de temps
        Bbm
 Et je bois je bois
          Gb             Ab        Db
 Et je suis saoul de toi
 
-Db
+Db                                
  Combien de temps combien de temps
       Bbm                            Gb
 Si on restait face à face sans un mot
              Ab         Db
 Sans une gomme qui efface
-Db
+Db                                
  Combien de temps combien de temps
        Bbm
 Et je bois je bois
@@ -102,7 +103,7 @@ Db   Bbm   Gb   Ab
 [Outro]
 Db                                  Bbm   Gb  Ab
  Combien de temps combien de temps
-Db
+Db                                
  Combien de temps combien de temps
        Bbm
 Et je bois je bois
