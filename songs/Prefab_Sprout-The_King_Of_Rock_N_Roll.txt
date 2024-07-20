@@ -1,0 +1,184 @@
+---------------------------------------------------------------------------
+                The King of Rock'n'Roll - Prefab Sprout
+---------------------------------------------------------------------------
+
+Written by: Paddy McAloon
+Album: "From Langley Park to Memphis" (1988)
+
+Tabbed by: maguri
+Tuning: Standard
+
+---------------------------------------------------------------------------
+
+Capo: 1st fret
+Play: D
+Key: Eb
+
+Transpose one step up for chords in original key (and "use flats").
+
+---------------------------------------------------------------------------
+
+[Intro](Riff)
+ [D(sus4)                          [Cmaj7
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|--------4-5-7---|--------4-5-7---|--------2-4-5---|--------2-4-5---|
+A|5---5-----------|5---5-----------|3---3-----------|3---3-----------|
+E|----------------|----------------|----------------|----------------|
+ [Am11  
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|
+B|----------------|----------------|
+G|----------------|----------------|
+D|--------2-4-5---|--------2-4-5---|
+A|0---0-----------|0---0-----------|
+E|----------------|----------------|
+
+
+[Verse] (Riff)
+ [D(sus4)                          [Cmaj7
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|--------4-5-7---|--------4-5-7---|--------2-4-5---|--------2-4-5---|
+A|5---5-----------|5---5-----------|3---3-----------|3---3-----------|
+E|----------------|----------------|----------------|----------------|
+ [Am11                             [G               [D/F#
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|--------2-4-5---|--------2-4-5---|--------0-2-4---|----2---0-------|
+A|0---0-----------|0---0-----------|----------------|----------------|
+E|----------------|----------------|3---3-----------|2---------------|
+
+---------------------------------------------------------------------------
+
+[Chords]
+          E-A-D-G-B-e
+Dsus4     x-x-0-2-3-3
+Cmaj7     x-3-2-0-0-0
+Am11      x-0-5-5-3-0
+D/F#      2-x-0-2-3-x
+C/E       0(3)2-0-1-0
+Am/G      3-x-2-2-1-0 or 3-x(5)5-5-5
+
+---------------------------------------------------------------------------
+
+[Intro]
+| Dsus4 | % | Cmaj7 | % | Am11 | % | 
+
+G                 D/F#              C/E
+La la la la la la la la la la la la la 
+G                 D/F#              C/E
+La la la la la la la la la la la la la 
+
+[Verse 1]
+       D                 Dsus4        Cmaj7
+All my lazy teenage boasts    are now high precision ghosts
+            Am11                      Am/G      D/F#
+And they're coming round the track to haunt me
+
+[Verse 2]
+         D                    Dsus4    Cmaj7
+When she looks at me and laughs    I remind her of the facts
+        Am11                   Am/G      D/F#
+I'm the king of Rock'n'Roll completely
+
+[Bridge]
+G         D/F#              C/E                [   C C C ]
+  Up from    suede shoes to     my baby blues
+
+[Chorus]
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+
+[Verse 3]
+    D                     Dsus4         Cmaj7
+The dream helps you forget    you ain't never danced a step
+         Am11                 Am/G      D/F#
+You were never fleet of foot, hippy
+
+[Verse 4]
+        D                  Dsus4        Cmaj7
+All the pathos you can keep     for the children in the street
+        Am11                 Am/G      D/F#
+For the vision I have had is sweeping
+
+[Bridge]
+G           D/F#         C/E                [ D D C C ]
+  New broom,   this room,  sweep it clean
+
+[Chorus]
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+
+[Middle 8]
+Am11  
+   High kickin' dandy, 
+G                      D/F#                Cadd9/E
+Fine figure fine cut a fine figure fine oh yeah - long legged candy 
+G                      D/F#                C/E
+Fine figure fine cut a fine figure fine oh yeah
+
+[Verse 5]
+       Dsus4                             Cmaj7
+Now my rhythm ain't so hot, but it's the only friend I've got
+        Am11                   Gsus4    D/F#
+I'm the king of Rock’n’Roll completely
+
+[Verse 6]
+        D                      Dsus4         Cmaj7
+All the pretty birds have flown      now I'm dancing on my own
+        Am11                   Am/G      D/F#
+I'm the king of Rock’n’Roll completely
+
+[Bridge]
+G         D/F#              C/E                  [ D D C C ]
+  Up from    suede shoes to     my baby blues
+
+[Chorus]
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+Dsus4      Bm7           Am11  Em7
+  Hot dog, jumping frog, Albu--querque
+
+[Middle 8]
+Am11  
+   High kickin' dandy, 
+G                      D/F#                C/E
+Fine figure fine cut a fine figure fine oh yeah - long legged candy 
+G                      D/F#                C/E
+Fine figure fine cut a fine figure fine oh yeah
+
+[Chorus]
+Dsus4      Bm7           Am11 Em7
+  Hot dog, jumping frog, Albu--querque
+Dsus4      Bm7           Am11   Em7
+  Hot dog, jumping frog, Albu--querque (Sing it, boy ...)
+
+[Outro] + coda (chords = chorus)
+Dsus4             Bm7                Am11  Em7               [ Dsus4 ]
+      Hot dog,    jumping frog,      Albu--querque
+La la la la la la la la la la la la la
+                                                  (The King of Rock'n'Roll)
+
+Dsus4             Bm7                Am11  Em7
+      Hot dog,    jumping frog,      Albu--querque (Yeah!)
+La la la la la la la la la la la la la         
+
+Dsus4             Bm7                Am11  Em7               [ Dsus4 ]
+      Hot dog,    jumping frog,      Albu--querque
+La la la la la la la la la la la la la 
+                                                  (The King of Rock'n'Roll)
+
+Dsus4             Bm7                Am11 Am11 
+      Hot dog,    jumping frog,       [breaks]  Albuquerque
+La la la la la la la la la la la la la
