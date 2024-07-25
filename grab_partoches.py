@@ -4,6 +4,7 @@ import re
 import json
 import requests
 from bs4 import BeautifulSoup
+from songs2json import songs2json
 
 def parse_url(url, output_dir, overwrite=False):
     html_text = requests.get(url).text
@@ -61,3 +62,6 @@ if __name__ == '__main__':
     for url in urls:
         #print(f'PARSE: {url}')
         parse_url(url, output_dir=args.output_dir, overwrite=args.overwrite)
+
+    # update json
+    songs2json()
