@@ -1,0 +1,101 @@
+[Intro]
+
+   B         B       B         F#            B         B       B         F# E
+e|-2---------2-------2---------2-----|     |-2---------2-------2---------2--0-|
+B|-4---------4-----5-4---------2-5-5-|     |-4---------4-----5-4---------2--0-|
+G|-4---------4-----4-4---------3-4-4-| x2  |-4---------4-----4-4---------3--1-|       
+D|-4-----4-6-4-4s6-6-4-----4-6-4-6-6-|     |-4-----4-6-4-4s6-6-4-----4-6-4--2-|
+A|-2-4s6-----2-------2-4s6-----4-----|     |-2-4s6-----2-------2-4s6-----4--2-|
+E|-x---------x-------x---------2-----|     |-x---------x-------x---------2--0-|
+
+
+[Verses]
+
+B                         B
+     Entre toute autre chose
+B                         F#          E
+     J'aurais du m'arrêter faire une pause
+B                          B
+     Mais j'étais trop pressé
+B                            F#      E
+     N'aurait-on pas pu attendre un été
+E                    F#
+     Erreur fatale
+                B              A          E         B        E
+     J'aurais dû t'écouter
+                                    F#
+     Je n'dissociais plus l'bien du mal
+
+                    B              A          E
+Car j'étais sur la route toute la sainte journée
+                    B       A           E
+Je n'ai pas vu le doute en toi s'immiscer
+                  B           A           E
+J'étais sur la route toute la sainte journée
+                 C#m
+Si seulement j'avais pu lire... 
+F#                            
+     Dans tes pensées
+
+B       A       E 
+B       A       E
+
+B                          B
+     J'avais perdu l'habitude
+B                         F#        E
+     Le sentiment profond de solitude
+B                        B
+     Je n'apercevais pas
+B                               F#        E
+     Que tu étais derrière chacun de mes pas
+E                    F#
+     Erreur fatale
+                B          A          E         B        E
+     Vient le temps des regrets
+                                  F# 
+     Je me noie dans un verre de larmes
+
+                    B              A          E
+j'étais sur la route toute la sainte journée
+                    B       A           E
+Je n'ai pas vu le doute en toi s'immiscer
+                  B           A           E
+J'étais sur la route toute la sainte journée
+                         C#m
+Si seulement j'avais pu lire... 
+F#
+     Dans tes pensées
+
+B       A       E       
+B       A       E
+
+F#                        E                    F#     E B
+J'ai fait mon malheur...  Ouh! Ouh! Ouuuuuuuuh!
+
+
+[Solo]
+
+F#       E       F#     E  ...
+F#       E       F#     E  ...
+
+                    B              A          E
+Car j'étais sur la route toute la sainte journée
+                    B       A           E
+Je n'ai pas vu le doute en toi s'immiscer
+                  B           A           E
+J'étais sur la route toute la sainte journée
+                         C#m
+Si seulement j'avais pu lire... 
+
+F#                           B             A            E     
+Dans tes pensées... Sur la route toute la sainte journée
+                     B      A         E
+Je n'ai pas vu le doute en toi s'immiscer
+                   B                A       E
+Car j'étais sur la route toute la sainte journée
+                C#m
+Si seulement j'avais pu lire... 
+C#7/B            B       Bmaj7/A# B7/A G#m7
+     Dans tes pensées
+               G        E           B
+J'aurais vu le doute en toi s'immiscer
