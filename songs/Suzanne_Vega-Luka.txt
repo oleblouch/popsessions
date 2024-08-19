@@ -1,0 +1,178 @@
+Actually in F#; capo at the 2nd fret.
+
+Chords:
+E:     022100
+Bsus4: x24400
+Asus2: x02200
+C#m7:  x46600
+
+
+[Intro]
+(one guitar)
+
+E  Bsus4  Asus2  Bsus4
+
+(whole band comes in)
+
+C#m7   Bsus4  C#m7   Bsus4
+Asus2  Bsus4  Asus2  Bsus4
+
+
+[Verse 1]
+
+E             Bsus4
+   My name is Luka
+Asus2            Bsus4
+   I live on the second floor
+E           Bsus4
+   I live upstairs from you
+Asus2                  Bsus4
+   Yes, I think you've seen me before
+
+
+[Chorus 1]
+
+C#m7           Bsus4              C#m7
+   If you hear something late at night
+                Bsus4                  Asus2
+   Some kind of trouble, some kind of fight
+               Bsus4
+   Just don't ask me what it was
+Asus2          Bsus4
+   Just don't ask me what it was
+Asus2          (Bsus4)
+   Just don't ask me what it was
+
+
+[Verse 2]
+
+E            Bsus4
+I think it's 'cause I'm clumsy
+Asus2        Bsus4
+I try not to talk too loud
+E            Bsus4
+Maybe it's because I'm crazy
+Asus2        Bsus4
+I try not to act too proud
+
+
+[Chorus 2]
+
+C#m7      Bsus4         C#m7
+They only hit until you cry
+ Bsus4                      Asus2
+And after that you don't ask why
+               Bsus4
+You just don't argue anymore
+Asus2          Bsus4
+You just don't argue anymore
+Asus2          (Bsus4)
+You just don't argue anymore
+
+
+[Solo]
+
+E  Bsus4  Asus2  Bsus4    E  Bsus4  Asus2  Bsus4
+
+
+[Verse 3]
+
+E       Bsus4
+Yes, I think I'm okay
+Asus2           Bsus4
+Walked into the door again
+E                 Bsus4
+If you ask that's what I'll say
+Asus2             Bsus4
+And it's not your business anyway
+
+
+[Chorus 3]
+
+C#m7      Bsus4         C#m7
+I guess I'd like to be alone
+ Bsus4                   Asus2
+Nothing broken, nothing thrown
+                 Bsus4
+Just don't ask me how I am
+Asus2            Bsus4
+Just don't ask me how I am
+Asus2            (Bsus4)
+Just don't ask me how I am
+
+
+[Verse 4]
+
+E             Bsus4
+   My name is Luka
+Asus2            Bsus4
+   I live on the second floor
+E           Bsus4
+   I live upstairs from you
+Asus2                  Bsus4
+   Yes, I think you've seen me before
+
+
+[Chorus 1]
+
+C#m7           Bsus4              C#m7
+   If you hear something late at night
+                Bsus4                  Asus2
+   Some kind of trouble, some kind of fight
+               Bsus4
+   Just don't ask me what it was
+Asus2          Bsus4
+   Just don't ask me what it was
+Asus2          (Bsus4)
+   Just don't ask me what it was
+
+
+[Chorus 2]
+
+C#m7      Bsus4         C#m7
+They only hit until you cry
+ Bsus4                      Asus2
+And after that you don't ask why
+               Bsus4
+You just don't argue anymore
+Asus2          Bsus4
+You just don't argue anymore
+Asus2          (Bsus4)
+You just don't argue anymore
+
+
+[Instrumental]
+
+E  Bsus4  Asus2  Bsus4  E  Bsus4  Asus2  Bsus4  C#m7  Bsus4  Asus2  Bsus4  E
+
+
+
+[Intro]
+(The rest of the song follows the same pattern.)
+
+   E                Bsus4            Asus2            Bsus4
+e|----------------|--------0-------|--------0-------|--------0-------|
+B|----------------|----0-----0-----|----0-----0-----|----0-----0-----|
+G|----1-----1-----|----4-----------|2---------------|----4-----------|
+D|----2-----2-----|----4-----------|----2-----------|----4-----------|
+A|----2-----2-----|--2-------------|0---------------|--2-------------|
+E|0---------------|----------------|----------------|----------------|
+  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .
+
+   C#m7             Bsus4            C#m7             Bsus4
+e|----0-------0---|----0-------0---|----0-------0---|----0-------0---|
+B|0-----0-------0-|--0---0---0---0-|0-----0-------0-|--0---0---0---0-|
+G|----------------|--4-------4-----|----------------|--4-------4-----|
+D|--6-------6-----|--4-------4-----|--6-------6-----|--4-------4-----|
+A|4-------4-------|2-------2-------|4-------4-------|2-------2-------|
+E|----------------|----------------|----------------|----------------|
+  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .
+
+  Asus2             Bsus4            Asus2            Bsus4
+e|------------0---|----0-------0---|------------0---|-----0-------0---|
+B|----0-----0---0-|--0---0---0---0-|----0-----0---0-|---0---0---0---0-|
+G|----2-----2-----|--4-------4-----|----2-----2-----|---4-------4-----|
+D|----2-----2-----|--4-------4-----|----2-----2-----|---4-------4-----|
+A|0---------------|2-------2-------|0---------------|-2-------2-------|
+E|----------------|----------------|----------------|-----------------|
+  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .

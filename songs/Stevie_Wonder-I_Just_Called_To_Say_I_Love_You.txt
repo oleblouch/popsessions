@@ -1,0 +1,93 @@
+spotify:track:6RNDeRnWsRMjPdNVgupZCs
+https://www.youtube.com/watch?v=wyXNQiRCfRg
+Lyrics and Music by Stevie Wonder
+Tempo = 116 bpm
+* = strum once
+IMPORTANT: Capo 1 (Key of Db) to start with.
+For chords in original key transpose +1 (and "use flats").
+
+Cmaj7/G  3-x-2-0-0-0
+DmM7     x-x-0-2-2-1
+Dm7      x-x-0-2-1-1
+Gsus4    3-x-0-0-1-3
+Absus4   4-6-6-6-4-4
+Asus4    x-0-2-2-3-0
+
+
+[Intro]
+| C | C Cmaj7/G | C | C*
+
+[Verse 1]
+              C       Cmaj7/G C
+No New Year`s day, to cele -  brate,
+   Cmaj7/G   C                             Dm
+No chocolate covered candy hearts to give away.
+DmM7          Dm   DmM7             Dm7
+  No first of spri-ing,  no song to sing,
+DmM7             Dm    Dm7    Gsus4 G    C     C*
+  In fact here`s just another ordi- nary day.
+
+[Verse 2]
+         C        Cmaj7/G C
+No April rain, no flowers bloom,
+   Cmaj7/G C                            Dm
+No wedding Saturday within the month of June.
+DmM7          Dm DmM7             Dm7
+  But what it i- is, is something true,
+DmM7         Dm          Dm7        Gsus4  G      C     C*
+  Made up of these three words that I must say to you.
+
+[Chorus]
+       Dm        G     C            C
+I just called to say I love you,
+       Dm        G              Am      Am
+I just called to say how much I care.
+       Dm        G     Am        Am
+I just called to say I love you,
+      Dm7              Gsus4  G     C         C*
+And I mean it from the bottom of my heart.
+
+[Verse 3]
+            C        Cmaj7/G C
+No summer`s high, no warm  July,
+   Cmaj7/G C                               Dm
+No harvest moon to light one tender August night.
+DmM7        Dm DmM7            Dm7
+  No autumn breeze, no falling leaves,
+DmM7       Dm                Gsus4  G        C     C*
+  Not even time for birds to fly to southern skies.
+
+[Verse 4]
+         C       Cmaj7/G C
+No Libra Sun, no Hallo - ween,
+   Cmaj7/G C                                   Dm
+No giving  thanks to all the Christmas joy you bring.
+DmM7          Dm    DmM7               Dm7
+  But what it i-i-i-is, though old, so new.
+DmM7           Dm         Dm7      Gsus4       G    C     C*
+  To fill your heart like no three words could ever do.
+
+[Chorus] (key change)
+       Ebm       Ab    Db         Db
+I just called to say I love you.
+       Ebm       Ab             Bbm          Bbm
+I just called to say how much I ca-a-are, I do.
+       Ebm       Ab    Bbm       Bbm
+I just called to say I love you.
+      Ebm              Absus4 Ab    Db
+And I mean it from the bottom of my heart.
+
+[Chorus] (another key change)
+       Em        A     D          D
+I just called to say I love you.
+       Em        A              Bm      Bm
+I just called to say how much I care.
+       Em        A     Bm       Bm
+I just called to say I love you.
+      Em               Asus4  A     D
+And I mean it from the bottom of my heart.
+
+[Coda]
+                                 1 + 2 + 3
+Bb    C      C     | D | % | % | D   D D D
+Of my heart, of my heart.
