@@ -1,7 +1,8 @@
 body {
 	margin: 0px;
 	/*height: calc(100vh - 16px);*/
-	height: calc(200vh - 16px);
+	/*height: calc(200vh - 16px);*/
+	height: 100%;
 	width: 100%;
 }
 
@@ -38,6 +39,11 @@ body {
 	width: calc(50% - 16px);
 }
 
+.chords-text-nocols {
+	height: 98%;
+	overflow: scroll;
+}
+
 .chords-text {
 	--ncols: 3;
 
@@ -50,5 +56,9 @@ body {
 	column-rule-style: solid;
 	/*column-width: 100px;*/
 	/*width: 100%;*/
-	max-height: 98vh;
+	
+}
+
+.chords {
+	height: 100%;
 }
