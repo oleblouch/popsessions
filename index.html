@@ -45,15 +45,7 @@
 	<script>
         $(document).ready(function () {
 
-			if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
-				// true for mobile device
-				//console.log("mobile device");
-				$('#ncolumns option[value=1]').prop('selected', true);
-			}else{
-				// false for not mobile device
-				//console.log("not mobile device");
-				$('#ncolumns option[value=3]').prop('selected', true);
-			}
+
 
 			$.getJSON( "songs.json", function( data ) {
 
@@ -69,24 +61,20 @@
 				});
 			});
 
-			/*
-			$.ajax({
-				url: "/songs/",
-				success: function(data){
-					$(data).find("a").each(function(i,f){      
-						path = $(f).attr("href");
-						name = path.replace('.txt','').replace(/-/g,' - ').replace(/_/g,' ');
-						name = name.replace('%27','').replace('%26','&').replace('%28','(').replace('%29',')');
-						$('#songs').append('<option value=songs/' + path + '>' + name + '</option>');
-
-						$('#songs').trigger('change');
-					});
-				}
-			}); */ 
-
 			$('#ncolumns').on('change',function () {
 				$('.chords-text').css('--ncols', $('#ncolumns').val());
 			});
+
+			if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+				// true for mobile device
+				//console.log("mobile device");
+				$('#ncolumns option[value=1]').prop('selected', true);
+			}else{
+				// false for not mobile device
+				//console.log("not mobile device");
+				$('#ncolumns option[value=3]').prop('selected', true);
+			}
+			$('#ncolumns').trigger('change');
 
             $('#songs').on('change', function() {
                 var value = $(this).val();

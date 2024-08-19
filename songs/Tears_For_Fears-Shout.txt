@@ -1,15 +1,3 @@
-----------------------------------------------------------------------------------------
-                           SHOUT (ACOUSTIC) - Tears For Fears
-                              http://youtu.be/ZEWwZNUafKo
-----------------------------------------------------------------------------------------
-
-Cmaj7/G = 332000
-Asus2   = 002200
-
-===========
-  CAPO 3
-===========
-
 [Chorus]
 Em                            Cmaj7/G
 Shout, Shout, let it all out. These are the things I can do without
