@@ -327,7 +327,7 @@ function chords(selector, options = {}) {
 							var max_len = 0;
 							var all_chords = true;
 							words.forEach( function(str) {
-								if(str.length > 5) {
+								if(str.length > 6) {
 									all_chords = false;
 								}
 								if((str != "") && (!str.match(chord_re))) {
