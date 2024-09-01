@@ -25,8 +25,8 @@ body {
 }
 .root .leaf {
 	margin: 8px;
-	/*font-size: x-large;*/
-	font-size: large;
+	font-size: x-large;
+	/*font-size: large;*/
 }
 
 .s12 {
