@@ -24,7 +24,7 @@ A7sus4     A7     D Dsus2 D
 Years gone by and still
 A7sus4      A7       Em
 Words don't come easily
-     G          A     Asus4 A
+     G          A     Asus4 A (long)
 Like sorry like sorry
 
 [Verse 2]
@@ -36,7 +36,7 @@ A7sus4     A7     D Dsus2 D
 Years gone by and still
 A7sus4      A7       Em
 Words don't come easily
-     G          A         Asus4 A
+     G          A         Asus4 A (long)
 Like forgive me forgive me
 
 [Chorus]
@@ -51,7 +51,7 @@ Oooh at the right time
             D Dsus2 D
 You'd be mine
 
-Em7   F#m G  A
+Em7   F#m G  A (4 accords rapides pour transition)
 
 [Verse 3]
   D        Dsus2  D
@@ -62,7 +62,7 @@ A7sus4     A7     D Dsus2 D
 Years gone by and still
 A7sus4      A7       Em
 Words don't come easily
-       G          A       Asus4 A
+       G          A       Asus4 A (long)
 Like I love you I love you
 
 [Chorus]
@@ -84,7 +84,9 @@ Em         G            Bm
 Maybe if I told you the right words
             A Asus2 A
 Oooh at the right time
-           D Dsus2 D  Em  G A
+
+(enchaînement G A rapide)
+           D Dsus2 D  Em  G A 
 You'd be mine
            D Dsus2 D  Em  G A
 You'd be mine
