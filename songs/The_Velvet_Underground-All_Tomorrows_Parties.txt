@@ -2,6 +2,8 @@ All Tomorrow's Parties
 The Velvet Underground &amp; Nico (1967)
 by Lou Reed
 
+Info : toutes les fins de phrases en D et A tournent sur 8 temps
+
 [Chorus]
 D                      C        G    D
 And what costume shall the poor girl wear
@@ -21,6 +23,8 @@ When midnight comes around
 She'll turn once more to Sunday's clown
 G       A          D
 And cry behind the door
+
+(solo en D)
 
 [Chorus]
 D                      C        G    D
@@ -42,6 +46,8 @@ She'll turn once more to Sunday's clown
 G       A          D
 And cry behind the door
 
+(solo en D)
+
 [Chorus]
 D                      C        G    D
 And what costume shall the poor girl wear
@@ -61,3 +67,5 @@ Of rags and silks, a costume
 Fit for one who sits and cries
 G       A          D
 For all tomorrow's parties
+
+(solo en D)

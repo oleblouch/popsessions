@@ -1,3 +1,5 @@
+Info : le C/B n'est qu'un accord de passage, en fait on reste toujours 8 temps sur le C d'avant.
+
 [Intro]
 | C |
 
@@ -10,7 +12,7 @@ I have squandered my resistance
 For a pocketful of mumbles such are promises
     C/B      Am           G                 F
 All lies and jest still a man hears what he wants to hear
-                   C      G    F G C
+                   C      G    F G C (8 temps)
 And disregards the rest
 
        C                                     C/B    Am
