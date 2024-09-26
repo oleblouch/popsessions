@@ -1,5 +1,5 @@
-[INTRO]
-Dm7   Gm7   Bbmaj7   Am7
+[INTRO - SAX !]
+Dm7   Gm7   Bbmaj7   Am7 (x2)
 
 [Verse 1]
 
@@ -76,7 +76,7 @@ So, I'm never gonna dance again
 The way I danced with you, ohh oh.
 
 
-[Interlude]
+[Interlude - SAX !]
 
 Dm7   Gm7           Bbmaj7            Am7
            Never without your love
@@ -121,7 +121,7 @@ So, I'm never gonna dance again
 The way I danced with you
 
 
-[Outro]
+[Outro - SAX !]
 
 Dm7   Gm7             Bbmaj7    Am7
       Oh ho
