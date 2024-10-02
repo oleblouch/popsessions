@@ -21,6 +21,11 @@
 						<option value="4">4</option>
 					</select>
 
+					<select class="ncolumns leaf" id="langs">
+						<option value="en" selected="selected">en</option>
+						<option value="fr">fr</option>
+					</select>
+
 					<select class="leaf" id="songs"/>
 					
 					
@@ -43,26 +48,38 @@
 		</form>
 	</body>
 	<script>
-        $(document).ready(function () {
 
-
-
+		function populate_songs() {
+			var lang = $('#langs').val();
+			$("#songs").empty();
 			$.getJSON( "songs.json", function( data ) {
 
 				$(data).each(function(i,line){
-					artist = line['name'].slice(0,line['name'].length - 1).join("-").replace(/_/g,' ');
-					title = line['name'][line['name'].length - 1].replace(/_/g,' ');
+					if ( line['lang'] == lang ) {
+						artist = line['name'].slice(0,line['name'].length - 1).join("-").replace(/_/g,' ');
+						title = line['name'][line['name'].length - 1].replace(/_/g,' ');
 
-					name = artist + ' - ' + title;
-					path = line['path']
-					$('#songs').append('<option value=' + path + '>' + name + '</option>');
+						name = artist + ' - ' + title;
+						path = line['path']
+						$('#songs').append('<option value=' + path + '>' + name + '</option>');
 
-					$('#songs').trigger('change');
+						$('#songs').trigger('change');
+					}
 				});
 			});
+		}
+
+        $(document).ready(function () {
+
+
+			populate_songs();
 
 			$('#ncolumns').on('change',function () {
 				$('.chords-text').css('--ncols', $('#ncolumns').val());
+			});
+
+			$('#langs').on('change',function () {
+				populate_songs();
 			});
 
 			if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
