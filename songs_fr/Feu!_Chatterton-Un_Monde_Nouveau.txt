@@ -1,0 +1,186 @@
+e|-----| e|-----|  e|--1--|  e|--2--| E|--5--| E|--5--| E|--5--| E|--5--|
+B|--1--| B|--1--|  B|--1--|  B|--1--| B|--5--| B|--5--| B|--5--| B|--5--|
+G|-----| G|--2--|  G|--2--|  G|--2--| G|--5--| G|--5--| G|--5--| G|--5--|
+D|--2--| D|--2--|  D|--3--|  D|-----| D|--7--| D|--5--| D|--4--| D|--3--|
+A|--3--| A|-----|  A|--3--|  A|-----| A|--0--| A|--0--| A|--0--| A|--0--|
+E|-----| E|-----|  E|-----|  E|--2--| E|-----| E|-----| E|-----| E|-----|
+    C       Am         F        D7        Am      Am7     Am6       Fmaj7
+
+
+[Intro]
+ C    Am      F       D7
+
+[Verse]
+C                        Am
+Un vent, un grand vent nouveau,
+                  F           D7
+Soufflait sur le pays,très chaudement
+C                               Am
+Dans un bain, un bain de foule dévôt
+           F             D7
+À moitié ébahi,on se mouillait mollement
+
+[Prechorus]
+ Am                                 Am7
+La glace fondait dans les spritzs, c’était à n’y comprendre rien
+ Am6                                 Fmaj7
+Tout le monde se plaignait en ville du climat subsaharien
+ Am
+On n’avait pas le moral
+                     Am7
+Mais l’on répondait bien
+            Am6
+À tous les mots les traits d’esprit
+             Fmaj7
+Du serveur central
+
+[Chorus]
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ Am
+Zéro
+                F
+Attrapеr le bluetooth
+ D7                             Am
+Que savions nous fairе de nos mains ?
+         Am7
+Presque rien
+           Am6
+Presque rien
+          Fmaj7
+Presque rien
+
+[Verse]
+ C                      Am
+Le monde, le monde de demain
+                F               D7
+On le bégayait tous sans n’y comprendre rien
+  Am                     Am7
+À la loi nouvelle des éléments
+                    Am6               Fmaj7
+Qui nous foutait la frousse et les poils en même temps
+
+[Prechorus]
+ Am
+La clarté nous pendait au nez
+ Am7
+Dans sa vive lumière bleue
+ Am6
+Nous étions pris, faits, cernés
+ Fmaj7
+L’évidence était sous nos yeux
+ Am
+Comme une publicité
+ Am7
+Qui nous masquait le ciel
+                 Am6
+Des millions de pixels pleuvaient
+                Fmaj7
+Sur le serveur central
+
+[Chorus]
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ Am
+Zéro
+                F
+Attrapеr le bluetooth
+ D7                             C
+Que savions nous fairе de nos mains ?
+        Am7
+Presque rien
+           Am6
+Presque rien
+          Fmaj7
+Presque rien
+
+[Instrumental]
+ C    Am   F   D7
+                      C
+Se prendre dans les bras
+                     Am
+S’attraper dans les bras
+            F
+Ça on le pouvait
+                     D7
+Se prendre dans les bras
+                     C
+S’attraper dans les bras
+           Am
+Ça on le pouvait
+                       F
+On le pouvait, on le pouvait
+                       D7
+On le pouvait, on le pouvait
+
+Un monde nouveau
+                      C
+Se prendre dans les bras
+                     Am
+S’attraper dans les bras
+            F
+Se prendre dans les bras
+            D7
+Ça on le pouvait
+
+[Chorus]
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ Am
+Zéro
+                F
+Attrapеr le bluetooth
+ D7                             C
+Que savions nous fairе de nos mains ?
+ Am
+Presque rien
+ F           D7
+Presque rien
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                    C
+Mais que savions nous faire ?
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
+ C           Am
+Un monde nouveau
+              F
+On en rêvait tous
+      D7                             C
+Mais que savions nous faire de nos mains ?
