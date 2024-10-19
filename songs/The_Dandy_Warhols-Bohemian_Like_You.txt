@@ -1,17 +1,3 @@
-Band:The Dandy Warhols
-Song:Bohemian Like You
-Album:Thirteen Tales From Urban Bohemia
-
-I've seen so many versions of this song which are oh-so close to being
-right but at the same time wrong enough to sound awful when played-here 
-is my version which sounds spot on.
-
-If one guitar plays the barre chords and the other plays power chords during the
-verse, then in the chorus one guitar plays the open chords and the other plays
-barre chords, its sound spot on...the layer guitars
-
-Chords used:
-
 e|-7----7----10----10----5----5----12----12--|
 B|-7----7----10----10----5----5----12----12--|
 G|-8----9----11----12----6----7----13----14--|
@@ -28,10 +14,6 @@ A|-9----12----7----14----|
 E|-7----10----5----12----|
    B    D     A     E 
 
-Note - When playing the barre chords in this song use your little finger
-to play the sus4's which 'go' with them.
-
-
 [INTRO/CHORUS]
 
 B B Bsus4 Bsus4 B
@@ -44,18 +26,10 @@ D D Dsus4 Dsus4 D
 A A Asus4 Asus4 A
 E E Esus4 E E Esus4   drums 
 
-
-Bass part played in other parts of song aswell.usually played on the 
-keyboard bass   
-
 G|-4/2--------------|
 D|------4-----------|
 A|---------2-2---0--|  x4
 E|------------------|
-
-There are also chords played over this bassline when it is played 
-between verses which go  B B A B  B B then into the verse
-
 
 [VERSE]
 
