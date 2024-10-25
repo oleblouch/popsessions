@@ -1,0 +1,95 @@
+--------------------------------------------------------------------------
+                Playground Love (Voc: Gordon Tracks) – Air
+--------------------------------------------------------------------------
+
+Written by: Gordon Tracks/JB Dunckel/N Godin
+From: "The Virgin suicides - Original Motion Picture Score" (1999)
+
+Tabbed by: maguri
+Tuning: Standard
+
+A fascinating song! The chords are multi-layered and some of them are 
+not easy to play on a guitar But using a capo helps a lot. I think 
+what I've got here is pretty close, although there are chords about 
+which I'm not a 100% sure. Suggestions are highly welcome!
+
+If you want to know what this tab sounds like, listen here:
+https://soundcloud.com/maguri/playground-love?in=maguri/sets/ultimate-guitar
+
+---------------------------------------------------------------------------
+
+capo: 3rd fret
+play: Am
+key: Cm
+
+For chords in the original key, transpose this tab +3 to Cm (and "use flats")
+
+--------------------------------------------------------------------------
+
+CHORDS
+
+Am9 is a tough one. Below, I added alternative voicings 
+for the Am variations, which might be helpful. 
+
+           E-A-D-G-B-e
+Am7        x-0-2-2-1-3 or x-0-2-0-1-0
+Am6        x-0-2-2-1-2 or x-0-4-2-1-0
+Am9        x-0-2-4-1-3 or x-0-5-5-0-0
+Am/G       3-x-2-2-1-0
+Fdim       1(2)0-1-0-x  (2) = optional note: play it or mute the string
+F(add9) (t)1-x-3-2-1-3
+F/C        x-3-x-2-1-1
+B5         x-2-4-4-x(0)
+Bb5        x-1-3-3-x(0)
+
+--------------------------------------------------------------------------
+
+[Intro]
+| Am7 | Am6 | Am7 | Am6 | Am9 | Am6 | Am9 | Am6 |
+(vibraphone)
+
+[Verse 1]
+C      E7          Am    Am/G     
+ I'm a high school lover                  
+Fdim           E7       F(add9)    D
+ And you're my favorite flavor
+F/C      D    F/C     D
+ Love is all,  all my soul
+F/C         B5  Bb5    Am
+  You're my playground love
+
+[Interlude]
+| Am7 | Am6 | Am7 | Am6 | Am9 | Am6 | Am9 | Am6 |
+(sax solo)
+
+[Verse 2]
+C         E7        Am     Am/G     
+   Yet my hands are shaking                  
+Fdim       E7   F(add9)    D
+ I feel my body reeling 
+F/C        D      F/C     D
+ Time's no matter, I'm on fire
+F/C      B5  Bb5    Am
+  On the playground love
+
+[Interlude]
+| Am7 | Am6 | Am7 | Am6 | Am9 | Am6 | Am9 | Am6 |
+(sax solo)
+
+[Verse 3]
+C           E7       Am     Am/G     
+ You're the piece of gold                         
+Fdim          E7     F(add9)    D
+ That flushes all my soul
+F/C    D     F/C     D
+ Extra time,  on the ground
+F/C          B5  Bb5    Am
+   You’re my playground love
+
+[Verse 4]
+| C E7 | Am Am/G | Fdim E7 | F(add9) D | D |
+(sax solo)
+F/C D     F/C D
+ Anytime,  anyway
+F/C        B5  Bb5    Am
+ You're my playground love
