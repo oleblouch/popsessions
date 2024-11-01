@@ -12,6 +12,10 @@ def songs2json():
     txts = glob.glob('songs_fr/*.txt')
     songs += [ { 'lang':'fr','name':os.path.basename(x).replace('.txt','').split('-'), 'path':x } for x in sorted(txts) ]
 
+    # BW
+    txts = glob.glob('songs_bw/*.txt')
+    songs += [ { 'lang':'bw','name':os.path.basename(x).replace('.txt','').split('-'), 'path':x } for x in sorted(txts) ]
+
     with open('songs.json','wt') as f:
         json.dump(songs,f)
 
