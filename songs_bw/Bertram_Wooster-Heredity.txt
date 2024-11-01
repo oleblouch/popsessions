@@ -1,9 +1,8 @@
-Thomas Hardy - Heredity
-
+[Intro]
 Bb Eb Ebm Bb (Eb)
 Bb Eb Ebm F
 
-                          Bb
+                    Bb
 I am the family face; 
 Ab        Gm         
 Flesh perishes, I live on, 
@@ -16,10 +15,22 @@ And leaping from place to place
 F	Bb
 Over oblivion. 
 
-Bb Eb Ebm Bb
+[Bridge]
+Bb Eb Ebm Bb (Eb)
 Bb Eb Ebm F
 
-Refaire couplet 1 puis transition en G
+                    Bb
+I am the family face; 
+Ab        Gm         
+Flesh perishes, I live on, 
+Eb              Cm7 
+Projecting trait and trace 
+F        Gm
+Through time to times anon, 
+F      Ebm7
+And leaping from place to place 
+F	Bb          G
+Over oblivion. 
 
 				C
 The years-heired feature that can
@@ -31,9 +42,16 @@ G		Am
 Ofdurance--that is I;
 G		Fm7 
 The eternal thing in man,
-G		C 		transition en A
+G		C 		A
 That heeds no call to die. 
 
-D - F#m - G (x2)
-D - F#m7 - Gmaj7 - A (x2) - Bm - A/C# - C - B
-E - G#m7 - Amaj7 - B        - C#m - B/D# - D - E
+[Instrumental]
+D  F#m  G
+D  F#m  G
+
+D  F#m7  Gmaj7  A
+PA LA PA PA PA
+D  F#m7  Gmaj7  A   Bm   A/C#  C  B
+PA LA PA PA PA PA LA PA PA PA
+E  G#m7  Amaj7  B   C#m  B/D#  D  E
+PA LA PA PA PA PA LA PA PA PA
