@@ -7,14 +7,14 @@ No prayers written to bless you,I write them white,
     Gm7             A7                          Ebmaj7
 your soul a flame,bright in the window of your maiden name.
 
-F
-I write them white
-G7 
-I write them white
-Bb 
-I write them white
-F
-I write them white
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
 
 F                           Bb
 No laws written to guard you,I write them white,
@@ -25,14 +25,14 @@ No rules written to guide you,I write them white,
     Gm7             A7                          Ebmaj7
 words on the wind,traced with a stick where we walk on the sand.
 
-F
-I write them white
-G7 
-I write them white
-Bb 
-I write them white
-F
-I write them white
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
 
 [Bridge]
 C					Dm7
@@ -42,17 +42,19 @@ No rules written to guide you, I write them white,
 Am7				Ebmaj7
 No news written to tell you,I write it white,
 
-No news written to tell you,I write it white,
-foam on a waveas we lift up our skirts in the sea, wade,
 
-F
-I write them white
-G7 
-I write them white
-Bb 
-I write them white
-F
-I write them white
+
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
+F                   G7
+I write them white, I write them white
+Bb                  F
+I write them white, I write them white
+
+?? No news written to tell you,I write it white,
+?? foam on a waveas we lift up our skirts in the sea, wade,
 
 [Outro]
 F
