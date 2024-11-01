@@ -1,12 +1,13 @@
-INTRO : E – Am/F – A/F# - Am/F
+[Intro]
+E – Am/F – A/F# - Am/F
 
-    E                         		Am/F
+    E                   Am/F
 THE love I bear you, dearest,
-                                    A/F#
+                        A/F#
 Would make the sweetest tale,
-                                    Am/F
+                        Am/F
 We'd sail upon a sea of bliss,
-                                    E
+                        E
 And I would lift the sail.
 
 Our happiness would be sublime,
@@ -23,7 +24,8 @@ He pleaded: "Come! oh! come with me."
 
 She could not answer: "No."
  
-MOTIF : E – Am/F – A/F# - Am/F
+[Bridge]
+E – Am/F – A/F# - Am/F
 
 They dined alone that evening,
 And the young man got his wish.
