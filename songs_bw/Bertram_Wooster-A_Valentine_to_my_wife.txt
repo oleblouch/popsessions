@@ -1,22 +1,19 @@
-   A Valentine to My Wife
-by Eugene Field (1850-1895)
-
-A   	Dm             	B7
+A             Dm B7
 Accept, dear girl, this little token,
-      	E  	E7					A
+      	E      E7              A
 And if between the lines you seek,
 A   	Dm             	B7
 You'll find the love I've often spoken
-      	E  	E7					A
+      	E  	E7                A
 The love my dying lips shall speak.
  
 A    	  D         	Bm
 Our little ones are making merry
- 	   	E  	E7					A
+ 	   	E  	E7                  A
 O'er am'rous ditties rhymed in jest,
 A    	  D         	Bm
 But in these words (though awkward very)
-		E  	E7				Dm
+		E  	E7            Dm
 The genuine article's expressed.
 
 Dm   A	 B7	E
@@ -42,7 +39,8 @@ I'll mock old Tempus with repeating,
 Dm   A	 B7	E
 PA LA PA PA ..
 
-Bridge : F#m - B7 - C#m7 - D6 - Dm6
+[Bridge]
+F#m   B7   C#m7   D6   Dm6
 
 A   	Dm             	B7
 And when I fall before his reaping,

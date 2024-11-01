@@ -1,7 +1,3 @@
-Eldorado
- Accord de D tenu sur basse de : D - Em - Bm - G
-Puis : A - Bm - G – Gm
-
 D
 Gaily bedight,
 Em
@@ -29,7 +25,8 @@ He met a pilgrim shadow-
 "Where can it be-
 This land of Eldorado?"
  
-Pont : A - Bbaug - Bmin7 – C(+f#)
+[Bridge] 
+A  Bbaug  Bm7  C5b
  
 "Over the Mountains
 Of the Moon,
@@ -37,4 +34,5 @@ Down the Valley of the Shadow,
 Ride, boldly ride,"
 The shade replied-
 "If you seek for Eldorado!"
-Fin : D - /E - /F# - /G - /A - /Bb - /B – C(+f#) – C(+f#) - D
+
+D  D/E  D/F#  D/G  D/A D/Bb  D/B  C5b     D
