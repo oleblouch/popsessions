@@ -53,6 +53,7 @@
 		function populate_songs() {
 			var lang = $('#langs').val();
 			$("#songs").empty();
+			$('#songs').append('<option selected disabled>CLICK HERE & CHOOSE A SONG !</option>');
 			$.getJSON( "songs.json", function( data ) {
 
 				$(data).each(function(i,line){
@@ -64,10 +65,11 @@
 						path = line['path']
 						$('#songs').append('<option value=' + path + '>' + name + '</option>');
 
-						$('#songs').trigger('change');
+						
 					}
 				});
 			});
+			$('#songs').trigger('change');
 		}
 
         $(document).ready(function () {
