@@ -27,7 +27,7 @@
 						<option value="bw">BW</option>
 					</select>
 
-					<select class="leaf" id="songs"/>
+					<select class="leaf" id="songs"></select>
 					
 					
 					<select class="chords-dir leaf"></select>
@@ -51,6 +51,7 @@
 	<script>
 
 		function populate_songs() {
+			$('.chords-text').empty();
 			var lang = $('#langs').val();
 			$("#songs").empty();
 			$('#songs').append('<option selected disabled>CLICK HERE & CHOOSE A SONG !</option>');
@@ -69,9 +70,9 @@
 					}
 				});
 			});
-			$('#songs').trigger('change');
+			//$('#songs').trigger('change');
 
-			$('.chords-text').prepend('<img id="theImg" src="images/popsessions.jpg" />')
+			$('.chords-text').append('<img id="theImg" src="images/back.jpg" />')
 		}
 
         $(document).ready(function () {
