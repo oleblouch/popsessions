@@ -56,7 +56,7 @@ body {
 	column-rule-style: solid;
 	/*column-width: 100px;*/
 	/*width: 100%;*/
-	
+	margin: 10px;
 }
 
 .chords {
