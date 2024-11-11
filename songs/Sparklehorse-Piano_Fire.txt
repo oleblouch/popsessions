@@ -1,0 +1,58 @@
+[Chord voicings]
+Em    - 022000 (can be used interchangeably with 022003 voicing)
+D     - xx0232 (can also hammer on to Dsus4 - xx0233)
+Am7   - x02013
+Cmaj7 - x32003
+Bm    - x24432
+C     - x32010
+G     - 320033
+
+Capo 2
+
+[Intro]
+Em     D        Am7     Cmaj7    x2
+
+[Verse]
+Em       D                       Am7         Cmaj7
+I got sunburnt waiting for the jets to land
+Em       D                       Am7         Cmaj7
+Circus people with hairy little hands
+Em       D       Am7                    Cmaj7
+Can it boys and strike up the army band
+Em       D                   Am7         Cmaj7
+I got sunburnt waiting for the jets
+
+[Chorus]
+         Bm    C    
+How do you feel?
+         Bm    C
+How do you feel?
+G     D        Em           D     Cmaj7
+I can't seem to see through solid marble eyes
+
+[Instrumental]
+G                Em     D        Am7      Cmaj7
+
+[Verse]
+Em       D                 Am7         Cmaj7
+Firey pianos washed up on a foggy coast
+Em          D                         Am7        Cmaj7
+Squeeky old organs have given up the ghost
+Em      D            Am7             Cmaj7
+Fry them up and cure the piano birds
+Em                     D                      Am7         Cmaj7
+There's creeky old organs burning on the coast
+
+[Chorus]
+          Bm   C
+How do you feel?
+          Bm   C
+How do you feel?
+G     D        Em           D     Cmaj7
+I can't seem to breathe, with a rusted metal heart
+G     D        Em           D     Cmaj7
+I can't seem to see through solid marble eyes
+
+[Outro]
+G     D        Em           D     Cmaj7   x4
+G
