@@ -1,25 +1,5 @@
-THE CLASH - SHOULD I STAY OR SHOULD I GO?
-From the album "Combat Rock"
-
-Tabbed by Peter Reilly
-
-Chords used:
-D   (557775)
-G   (355433)
-F   (133211)
-A   (577655)
-
-
 [Intro]
-
-   D    G        D         D    G        D
-e|-5-5--3-3-3-3--5--x-x-x--5-5--3-3-3-3--5--8h10--|
-B|-7-7--3-3-3-3--7--x-x-x--7-7--3-3-3-3--7--------|
-G|-7-7--4-4-4-4--7--x-x-x--7-7--4-4-4-4--7--------|
-D|-7-7--5-5-5-5--7--x-x-x--7-7--5-5-5-5--7--------|
-A|-5-5--5-5-5-5--5--x-x-x--5-5--5-5-5-5--5--------|
-E|-5-5--3-3-3-3--5--x-x-x--5-5--3-3-3-3--5--------|
-
+D   G   D (x4)
 
 [Verse 1]
                                    D   G   D
@@ -37,12 +17,17 @@ Should I stay or should I go
 
 
 [Verse 2]
-
+                                   D   G   D
 It's always tease, tease, tease
+                                   D   G   D
 You're happy when I'm on my knees
+                                   G   F   G
 One day is fine, the next is black
+                                   D   G   D
 So if you want me off your back
+                                   A
 Well, come on and let me know
+                                   D   G   D
 Should I stay or should I go?
 
 
@@ -60,12 +45,17 @@ So come on and let me know
 
 
 [Verse 3]
-
+                                   D   G   D
 This indecision's bugging me
+                                   D   G   D
 If you don't want me set me free
+                                   G   F   G
 Exactly whom I'm supposed to be
+                                   D   G   D
 Don't you know which clothes even fit me
+                                   A
 Come on and let me know
+                                   D   G   D
 Should I cool it or should I blow?
 
 
@@ -81,10 +71,20 @@ Should I stay or should I go now?
 If I go there will be trouble
                                    D   G   D
 And if I stay it will be double
+                                   A
+So you got to let me know
+                                   D   G   D
+Should I cool it or should I blow
 
-...
-
-
-The chorus has the same chords as the verse but is faster and the rhythm is 
-different. This is a pretty simple song to play, just listen to the song to pick up 
-the strumming pattern.
+                                   D   G   D
+Should I stay or should I go now?
+                                   D   G   D
+Should I stay or should I go now?
+                                   G   F   G
+If I go there will be trouble
+                                   D   G   D
+And if I stay it will be double
+                                   A
+So you got to let me know
+                                   D   G   D
+Should I cool it or should I go
