@@ -1,3 +1,5 @@
+G   C   (x2)
+
 [Verse 1]
 G
 When I'm with you baby, I go out of my head,
@@ -14,6 +16,8 @@ We slip and slide as we fall in love,
        C                 D
 And I just can't seem to get enough of
 
+G   C   (x2)
+
 [Verse 2]
 G
 We walk together, walking down the street,
@@ -29,7 +33,8 @@ It's getting harder, it's a burning love,
 C                        D
 And I just can't seem to get enough of
 
-A D A D A D A D7
+G C G C
+A D A D7
 
 [Chorus]
    G                     
