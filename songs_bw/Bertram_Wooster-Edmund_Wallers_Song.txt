@@ -1,27 +1,49 @@
-Solo : A - G#m - D - E
-Intro
-G - F - Cmaj7 - C/D
+Solo : A  G#m  D  E
 
-Couplet
-G - F - Cmaj7 - C/D
-Em - Bm - Am - Bm
-C/A - D/B - Em/A - Bm - C - D7
+G   F   Cmaj7  D
+G   F   Cmaj7  D
 
-Refrain :
-G - G7/F - G6/E - D (x2) - C
-
+G           F       Cmaj7           D
 Go, lovely rose! Tell her that wastes her time and me
+Em              Bm      Am          Bm          Am      Bm
 That now she knows, When I resemble her to thee,
+Am                      Bm          C       D7
 How sweet and fair she seems to be.
 
-Tell her that's young, and shuns to have her graces spied,
+[CHORUS]
+                G       F    Em                  D
+Tell her that's young,     and shuns to have her graces spied,
+G               F           Em          D          C
 That hadst thou sprung in deserts, where no men abide,
+C
 Thou must have uncommended died.
 
+G           F         Cmaj7           D
 Small is the worth of beauty from the light retired;
-Bid her come forth, suffer herself to be desired,
+Em              Bm    Am                Bm          Am      Bm
+Bid her come forth,   suffer herself to be desired,
+Am                  Bm          C       D7
 And not blush so to be admired.
 
-Then die! that she the common fate of all things rare
-May read in thee; how small a part of time they share
+[CHORUS]
+                G       F    Em                  D
+Then die! that she          the common fate of all things rare
+G               F           Em               D          C
+May read in thee;       how small a part of time they share
+C
+That are so wondrous sweet and fair!
+
+G   F   Cmaj7  D
+G   F   Cmaj7  D
+
+[BRIDGE]
+Eb  Cm  F  D7
+Eb  Cm  F  D7
+
+[CHORUS]
+                G       F    Em                  D
+Then die! that she          the common fate of all things rare
+G               F           Em               D          C
+May read in thee;       how small a part of time they share
+C
 That are so wondrous sweet and fair!
