@@ -29,7 +29,8 @@
 					</select>
 
 					<select class="leaf" id="songs"></select>
-					
+
+					<button type="button" class="leaf" id="pick">Pick!</button>
 					
 					<select class="chords-dir leaf"></select>
 					<select class="chords-diatonic leaf"></select>
@@ -127,6 +128,17 @@
 			$('.youtube').on('click', function() {
 				keywords = $("#songs :selected").text();
 				window.open('https://www.youtube.com/results?search_query='+keywords, '_blank').focus();
+			});
+
+			$('#pick').on('click', function() {
+				const select = document.getElementById('songs');
+				const n = select.options.length;
+				if (!select || n === 0) return; // Vérifie si l'élément existe et n'est pas vide
+				
+				const randomIndex = Math.floor(Math.random() * n);
+				select.selectedIndex = randomIndex;
+
+				select.dispatchEvent( new Event('change'));
 			});
 
         });
