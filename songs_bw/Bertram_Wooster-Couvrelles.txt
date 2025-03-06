@@ -1,19 +1,24 @@
-Fmaj7 - Cmaj7 - G - Dm - Ddim/F - G
-Bridge : Fm7/Ab     - B5b/Eb - Bdim/D
-              ( C/E   /  Bb/C )
 
+Fmaj7
 Or nous repassions sur la Vesle
 Après six semaines deux mois
+Cmaj7
 A huit cents mètres de Couvrelles
 Qui sont ces défunts que l'on voit
+G
 Fosses fraîches et croix nouvelles
+                    Dm      Fm7 G
 Arrêtez un peu le convoi
 
+Fmaj7
 Celui-ci je me le rappelle
 Il jouait quand le ciel tonna
+Cmaj7
 Pour nous dans le poste aux chandelles
 Un petit air d'ocarina
+G
 La mort qui vint à tire d'aile
+                    Dm      Fm7 G
 Entre ses doigts le termina
 
 Cet autre un enfant triste et frêle
@@ -22,6 +27,9 @@ Quand son âme a joué la belle
 Comme de sa cage un oiseau
 Et le tampon du colonel
 L'a ramassé dans les roseaux
+
+Bridge : Fm7/Ab     - B5b/Eb - Bdim/D
+              ( C/E   /  Bb/C )
 
 Mais l'inscription que dit-elle
 Je lis et je ne comprends plus
