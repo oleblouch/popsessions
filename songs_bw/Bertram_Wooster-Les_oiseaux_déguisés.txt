@@ -1,12 +1,18 @@
-Intro : Ab - G - Am    Ab - G - C
+Intro : 
+Ab  G  Am    
+Ab  G  C
 
-C - Am - Dm - G7
-C - Am - Dm - Ab - G - (Am - Ab - G)
-
-Tous ceux qui parlent des merveilles 
+C                               Am 
+Tous ceux qui parlent des merveilles
+Dm                          G7 
 Leurs fables cachent des sanglots 
+C                               Am 
 Et les couleurs de leur oreille 
-Toujours à des plaintes pareilles 
+Dm                          Ab 
+Toujours à des plaintes pareilles
+                G               Am
+Donnent leurs larmes pour de l'eau
+Ab              G               C
 Donnent leurs larmes pour de l'eau
 
 Le peintre assis devant sa toile 
