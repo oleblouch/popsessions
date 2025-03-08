@@ -1,0 +1,113 @@
+Song: A rose for Emily
+Artist: The Zombies
+Composer: Rod Argent
+Album:  Odessey & oracle
+
+Tabbed by DJ  26th Aug 2012
+
+To hear the original track copy and paste this link:
+https://www.youtube.com/watch?v=iC8N42zOzNs
+
+IGNORE THE CHORD BOX DIAGRAMS that the website
+displays, they are generated automatically from a
+generic database and often don't show the best
+options for a particular chord progression. Just use
+the voicings suggested in the text column numbers.
+
+G     = xx5433   E7     = 022130   D/F#     = xx4232
+D     = xx0232   Bm7    = x24232   D/C      = x30232
+Fdim7 = xx3434   E7/D   = xx0434  (D/E)     = xx2xxx
+A/E   = xx2220   A      = x02220   A7       = x02020
+Ddim7 = xx0101   Bb     = x13331   D/A      = x00232
+A/C#  = x4222x   F      = 133211   Dsus2/A  = x00230
+Bm    = x24432   C#dim7 = x4535x   G#dim7/A = x00101
+Bm/E  = 024432   Gdim7  = xx5656   A4       = x02230
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+======================================================
+
+[Verse 1]
+G               D            Fdim7           A/E
+  The summer is here at last,  ...the sky is overcast,
+    Ddim7           A/C#           Bm    Bm/E E7
+And no one brings a rose for Emi - ly,
+G                   D            
+    She watches her flowers grow,
+Fdim7                A/E
+        While lovers come and go,
+   Ddim7           A/C#           Bm
+To give each other roses from her tree,
+    E7/D           A
+But not a rose for Emily
+
+[Chorus]
+Bb               F
+Emily---------,  can't you see,
+        (Emily,  can't you see?
+
+        C#dim7          D
+There's nothing you can do?
+       (See--------     how the sun is..)
+
+    Gdim7                 D/F#
+           There's loving everywhere,
+(...Shi-------------------ning again,
+
+    Gdim7                 D    D/C    G
+But none------------ for you------!
+           (But none for you-------------!)
+
+[Verse 2]
+G                 D           (D[/ch])([ch]D/E) Fdim7
+    Her roses are fading now,
+              A/E
+She keeps her pride somehow,
+       Ddim7              A/C#            Bm  Bm/E E7
+That's all she has pro - tecting her from pain,
+G            D           Fdim7             A/E
+  And as the years go by, ...she will grow old and die
+    Ddim7        A/C#            Bm7
+The roses in her garden fade a - way,
+    A/C#             Bm7     E7/D           A
+Not one left for her grave,  not a rose for Emily
+
+[Chorus]
+Bb               F 
+Emily---------,  can't you see,
+        (Emily,  can't you see?
+
+        C#dim7          D
+There's nothing you can do?
+       (See--------     how the sun is..)
+
+    Gdim7                 D/F#
+           There's loving everywhere,
+(...Shi-------------------ning again,
+
+    Gdim7                 D    D/C    G
+But none------------ for you------!
+           (But none for you-------------!)
+
+[Verse 3]
+G                 D           (D[/ch])([ch]D/E) Fdim7
+    Her roses are fading now,
+              A/E
+She keeps her pride somehow,
+       Ddim7              A/C#            Bm  Bm/E E7
+That's all she has pro - tecting her from pain,
+G            D           Fdim7             A/E
+  And as the years go by, ...she will grow old and die
+    Ddim7        A/C#            Bm7
+The roses in her garden fade a - way,
+    A/C#             Bm7     E7/D           A
+Not one left for her grave,  not a rose for Emily
+
+[Coda]
+   A7                D/A    Dsus2/A G#dim7/A  A4 A
+e|--------------|----2--0---------------1--|--------||
+B|-----2--2--2--|----3--3--3-----0--3------|--3--2--||
+G|-----0--0--0--|----2--2--2--1---------1--|--2-----||
+D|-----2--2--2--|----------------0--3------|--2-----||
+A|--0-----------|--0----------0------------|--0-----||
+E|--------------|--------------------------|--------||
