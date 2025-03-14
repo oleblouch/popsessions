@@ -2,10 +2,9 @@
 
 Am
 
-
 [Verse 1]
 
-      Am                                   F         C
+(HIM)  Am                                   F         C
 I got chills, they're multiplyin', and I'm losin' control
            E               Am
 'Cause the power you're supplyin', it's electrifyin'
@@ -13,17 +12,17 @@ I got chills, they're multiplyin', and I'm losin' control
 
 [Pre-chorus 1]
 
-                 C            Em        Am                       F
+(HER)          C            Em        Am                       F
 You better shape up, 'cause I need a man, and my heart is set on you
                  C              Em        Am                      F
 You better shape up, you better understand, to my heart I must be true
-                      F
+(HIM)                 F
 Nothing left, nothing left for me to do
 
 
 [Chorus]
 
-           C                                                 F
+(HER)        C               (HIM)                           F
 You're the one that I want (you are the one I want), ooh ooh ooh, honey
     C                                                 F
 The one that I want (you are the one I want), ooh ooh ooh, honey
@@ -32,15 +31,13 @@ The one that I want (you are the one I want), ooh ooh ooh
           G                               G7
 The one I need (the one I need), oh yes indeed (yes indeed)
 
-
 [Interlude]
 
 Am
 
-
 [Verse 2]
 
-          Am                                F         C
+(HER)      Am                                F         C
 If you're filled with affection, you're too shy to convey
     E            Am
 Meditate in my direction, feel your way
@@ -48,23 +45,23 @@ Meditate in my direction, feel your way
 
 [Pre-chorus 2]
 
-               C             Em
+(HIM)           C             Em        (HER)
 I better shape up, cause you need a man (I need a man)
-Am                      F
+Am                        F
    who can keep me satisfied
-               C          Em
+(HIM)           C          Em           (HER)
 I better shape up, if I'm gonna prove (You better prove)
 Am                       F
    that my faith is justified
-
+(HIM)
 Are you sure?
-         F
+(BOTH)     F
 Yes, I'm sure down deep inside
 
 
 [Chorus]
 
-           C                                                 F
+(HER)        C               (HIM)                           F
 You're the one that I want (you are the one I want), ooh ooh ooh, honey
     C                                                 F
 The one that I want (you are the one I want), ooh ooh ooh, honey
@@ -72,3 +69,5 @@ The one that I want (you are the one I want), ooh ooh ooh, honey
 The one that I want (you are the one I want), ooh ooh ooh
           G                               G7
 The one I need (the one I need), oh yes indeed (yes indeed)
+
+(x2)
