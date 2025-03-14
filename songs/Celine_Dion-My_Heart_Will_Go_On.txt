@@ -1,27 +1,3 @@
-My Heart Will Go On
-Titanic Soundtrack
-Music: James Horner
-Words: Will Jennings
-Sung by: Celine Dion
-Transcribed by Shawn G. Chittle
-
-(Verse)
-A   x02220
-B   224442
-C#m x46654
-E   022100
-
-(Key Change)
-Db  xxx121
-Eb  xxx343
-Fm  xxx111
-
-(Outro)
-Ab  466544
-Db  x46664
-Eb  x68886
-
-
 [Intro]
 
 C#m B A B C#m B A B
