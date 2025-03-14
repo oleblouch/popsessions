@@ -1,9 +1,5 @@
-I've Had The Time Of My Life (Dirty Dancing) chords
-Bill Medley and Jennifer Warnes   1987 **
 
-https://en.wikipedia.org/wiki/(I%27ve_Had)_The_Time_of_My_Life
-
-    E     C#m*                D
+(HIM) E     C#m*                D
 Now I've, had, the time of my life
                              E
 No, I never felt like this before
@@ -11,22 +7,23 @@ No, I never felt like this before
 Yes, I, swear it's the truth
                     E
 and I owe it all to you
-       E     C#m                 D
+
+(HER)  E     C#m                 D
 'Cause I've, had, the time of my life
                     E
 and I owe it all to you
 
-          D
+(HIM)    D
 I've been waiting for so long,
          
 now I've finally found someone
             E
 to stand by me
-           D
+(HER)      D
 We saw the writing on the wall,
                              E
 as we felt this magical fantasy
-         D
+(BOTH)    D
 Now with passion in our eyes,
                                           E
 there's no way we could disguise it secretly
@@ -37,16 +34,16 @@ So we take each other's hand,
          E
 the urgency (just remember)
 
-A 
- You're the one thing,
-G
- I can't get enough of
-A
- So I'll tell you something,
-B7 *
- this could be love because 
+(HER) A 
+        You're the one thing,
+(HIM) G
+        I can't get enough of
+(HIM) A
+        So I'll tell you something,
+(BOTH) B7 *
+        this could be love because 
  
-    E     C#m                 D
+(BOTH) E     C#m                 D
 Now I've, had, the time of my life
                              E
 No, I never felt like this before
@@ -55,49 +52,31 @@ Yes, I, swear it's the truth
                     E
 and I owe it all to you
 
-        D
+(HER)     D
 With my body and soul
                                  E
 I want you more than you'll ever know
-         D
+(HIM)     D
 So we'll just let it go,
                             E
 don't be afraid to lose control
-      D
+(HER)   D
 Yes I know what's on your mind,
                    
 when you say, "Stay with me
   E
 tonight." (just remember) 
 
-A 
- You're the one thing,
-G
- I can't get enough of
-A
- So I'll tell you something,
-B7 *
- this could be love because 
+(HER) A 
+        You're the one thing,
+(HIM) G
+        I can't get enough of
+(HIM) A
+        So I'll tell you something,
+(BOTH) B7 *
+        this could be love because 
  
-    E     C#m                 D
-Now I've, had, the time of my life
-                             E
-No, I never felt like this before
-        C#m            D
-Yes, I, swear it's the truth
-                    E
-and I owe it all to you
- 
-    E     C#m                 D
-Now I've, had, the time of my life
-                             E
-No, I never felt like this before
-        C#m            D
-Yes, I, swear it's the truth
-                    E
-and I owe it all to you
- 
-    E     C#m                 D
+(BOTH) E     C#m                 D
 Now I've, had, the time of my life
                              E
 No, I never felt like this before
@@ -106,19 +85,4 @@ Yes, I, swear it's the truth
                     E
 and I owe it all to you
 
-*  Try B instead of B7 if you prefer
-*  C#m7 has been suggested here
-
-** Alternate:
-
-Capo II
-
-E   = D
-C#m = Bm
-D   = C
-A   = G
-G   = F
-B7  = A7
-B   = A
-
-Set8
+(x3)
