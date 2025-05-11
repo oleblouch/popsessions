@@ -1,0 +1,125 @@
+[Chords]
+Gmaj7:   x20032
+Edim7:   x12030
+A7:      x0202x
+Gm7b5:   3x0032
+G6:      3x0000
+Em7:     x22030
+Amaj7:   x02120
+C#m7:    446454
+F#m7:    242222
+Cdim7:   x3424x
+Caug:    0xx11x
+
+
+[Intro]
+D
+
+[Verse 1]
+            D                            Bm7
+Pour quelle penche la tête vers moi douc'ment
+        Gmaj7                   Edim7  A7
+Qu'elle sente dans mon cœur les senti-ments
+         D                         Bm7
+Pour que dans ses fatigues, ses sommeils,
+      Gm7b5    G6
+y'ait que moi, ah ah
+               F#m         F#m7         B7
+Toutes ces mélodies, ces variétés qu'je traîne
+      Gmaj7                        Edim7    A7
+C'est tout simplement, pour que ma fiancée m'aime
+       D                          Bm7
+Que la réserve de baisers qu'elle a
+    Em7
+Que tous ses messages que son cœur envoie, ouh ouh
+    D         Bm7   E7             Caug
+Que tous ses (kiss) aillent sur ma joue
+
+[Chorus]
+   A       Amaj7     A7        Amaj7    D
+My song of you,...  c'est pour sécotine you,
+  D                  E7               C#m7     F#m7
+C'est d'la colle chantée, pour que tu partes jamais
+    Bm7      E7        A   Amaj7
+Que tu dises à  tout l'monde.
+D              E7            C#m7            F#m7
+Ce guimauve singer, moi tout c'qui sing ça m'plaît
+   Bm7                   C#m7
+Voilà pourquoi...  p'tit bout,
+  Bm7     E7
+I sing my song of you
+
+[Verse 2]
+            D                         Bm7
+Pour qu'les beaux bateaux, les jolis avions
+   Gmaj7                        Edim7   A7
+La laissent tranquille, rêveuse à la maison
+        D                           Bm7
+Que ses itinéraires, toutes ses croisières,
+   Gm7b5     G6
+Ce soit moi, ah ah
+                  F#m         F#m7          B7
+Pour que dans mes notes, dans mes chansons, dans mes airs
+   Gmaj7                           Edim7       A7
+On sente quelque chose, comme une présence ordinaire
+       D                     Bm7
+Pour qu'au terminal, arrivés au port
+      Em7
+On s'dise "youpi, youpi, on part encore", ouh ouh
+      D        Bm7        E7           Caug
+Après le grand bye bye, j'lui chante encore
+
+[Chorus]
+   A       Amaj7     A7        Amaj7    D
+My song of you,...  c'est pour sécotine you,
+                     E7               C#m7     F#m7
+C'est d'la colle chantée, pour que tu partes jamais
+    Bm7      E7        A   Amaj7
+Que tu dises à  tout l'monde.
+D              E7            C#m7            F#m7
+Ce guimauve singer, moi tout c'qui sing ça m'plaît
+   Bm7                   C#m7
+Voilà pourquoi...  p'tit bout,
+  Bm7     E7
+I sing my song of
+
+[Bridge]
+A7                 Asus      A
+You ('re) mine. Oh you be mi-i-ne
+D                 Asus
+I'm your lover, I wanna be loved
+      F             Dm        E7
+C'est pour...  son amour en échange
+
+[Chorus]
+   A       Amaj7     A7        Amaj7    D
+My song of you,...  c'est pour sécotine you,
+                     E7               C#m7     F#m7
+C'est d'la colle chantée, pour que tu partes jamais
+    Bm7      E7        A   Amaj7
+Que tu dises à  tout l'monde
+D              E7            C#m7            F#m7
+Ce guimauve singer, moi tout c'qui sing ça m'plaît
+   Bm7                  C#m7
+Voilà pourquoi... p'tit bout,
+  Bm7     E7
+I sing my song...
+
+[Coda]
+   Bb      Bbmaj7    Bb7        Bbmaj7   Eb
+My song of you,...   c'est pour sécotine you,
+                     F7               Dm7      Gm7
+C'est d'la colle chantée, pour que tu partes jamais
+    Cm7      F7       Bb  Bbmaj7
+Que tu dises à tout l'monde
+ Eb            F7            Dm7               Gm7
+Ce guimauve singer, moi tout c'qui sing ça m'plaît
+   Cm7                  Dm7
+Voilà pourquoi... p'tit bout,
+  Cm7     F7      Bb
+I sing my song of you
+
+[Outro]
+Bbmaj7  Bb7   Ebmaj7   Eb    F7
+Ouh     ouh   ouh      oh    oh.
+Dm7     Gm7   Cm7      F7    Bb
