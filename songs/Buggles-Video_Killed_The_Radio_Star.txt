@@ -1,0 +1,241 @@
+---------------------------------------------------------------------------
+                Video Killed the Radio Star – The Buggles
+---------------------------------------------------------------------------
+
+Written by: Geoff Downes, Trevor Horn, Bruce Woolley
+From: "The Age of Plastic" (1979)
+
+Tabbed by: maguri
+Tuning: Standard
+
+The chord sheet contains the basic chords which may be enough to strum 
+along on a guitar. It is a little difficult because often the chords are 
+not played on the beat but are syncopated (whenever the [Verse] chords are 
+used and in the [Solo], too). It is important to retain this feel, as it is 
+responsible for the drive of these parts. 
+
+The split chords in the [Verse] part may be played as regular chords, too 
+(but the 3rd in the bass gives it that special extra, I think). The split 
+chords in the [Interlude] are essential and should stay. 
+
+In the tabs, I added the arpeggios, voicings and melody lines for anyone 
+who would like to get into the track a little deeper. I tried to make it 
+playable for guitar players, still the piano pattern in the verse might 
+take a little until it flows along effortlessly. (At least it was like that 
+for me ...) 
+
+Comments and suggestions are highly welcome!
+
+---------------------------------------------------------------------------
+
+Capo 1st fret
+Play: C
+Key: Db
+
+For chords in original key, transpose +1 (and "use flats").
+
+---------------------------------------------------------------------------
+
+[Intro]
+ [Dm/F            [C/E             [Dm7             [Am
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|------5---------|------3---------|------1---------|----------------|
+B|----3-----------|----1-----------|----1-----------|1-----0---------|
+G|--2-------------|--0-------------|--2-------------|2-----------2---|
+D|3---------------|2---------------|0---------------|2---------------|
+A|----------------|----------------|----------------|0---------------|
+E|----------------|----------------|----------------|----------------|
+ [Dm/F            [C/E             [Dm7             [G
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|------5---------|------3---------|------1---------|3---------------|
+B|----3-----------|----1-----------|----1-----------|0---------------|
+G|--2-------------|--0-------------|--2-------------|0---------------|
+D|3---------------|2---------------|0---------------|0---------------|
+A|----------------|----------------|----------------|----------------|
+E|----------------|----------------|----------------|3---------------|
+
+
+[Verse] / [Bridge] / [Link 2]
+ [C/E    [Dm      [Gsus4  [G       [C/E    [Dm      [Gsus4  [G        
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|--1-1-3-3-1-1-3-|3-1-1-0-0-1-3---|--1-1-3-3-1-1-3-|3-1-1-0-0-1-3---|
+G|--0-0-2-2-2-2-0-|0-0-0-0-0-0-0---|--0-0-2-2-2-2-0-|0-0-0-0-0-0-0---|
+D|2-----0---------|--------------3-|2-----0---------|-------------(3)|
+A|----------------|----------------|----------------|----------------|
+E|----------------|3---------------|----------------|3---------------|
+
+
+[Solo]
+ [Dm/F [G      [C/E     [F         [Dm/F [G      [C/E     [F
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|5---5-----------|----------------|----5-----------|----------------|
+B|------8---6---5-|----------------|------8---6---5-|--6-8-----------|
+G|--7-------------|--5-------------|--7-------------|------5---------|
+D|----------------|------7---------|7---------------|----------------|
+A|----------------|----------------|----------------|----------------|
+E|----------------|----------------|----------------|----------------|
+ [Dm/F [G      [E/G#    [Am [break]
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+e|----5-----------|----------------|
+B|------8---6---5-|----------------|
+G|--7-------------|--7---5---------|
+D|7---------------|----------------|
+A|----------------|----------------|
+E|----------------|----------------|
+
+
+[Link 1]
+ [Dm/F            [C/G             [Dm7
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+e|------5---------|------3---------|------1---------|
+B|----3-----------|----1-----------|----1-----------|
+G|--2-------------|--0-------------|--2-------------|
+D|3---------------|----------------|0---------------|
+A|----------------|----------------|----------------|
+E|----------------|3---------------|----------------|
+ [G    [Am   [F     8Am   [F  [G
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+e|10—10b12r10-8-— 10b12r10-8---10--| (second guitar)
+B|8---8b10r8--6---|8b10r8--6---8---| (first guitar)
+G|----------------|----------------|
+D|----------------|----------------|
+A|----------------|----------------|
+E|----------------|----------------|
+
+---------------------------------------------------------------------------
+
+CHORDS (alphabetically)
+           E-A-D-G-B-e
+Am9        x-0-5-5-0-0
+C/E        0(3)2-0-1-0  or x-x-2-0-1-0
+Dm/F       1-x-3-2-3-1  or x-x-3-2-3-1
+E/G#       4-x-2-1-0-0
+F*      (t)1-x-3-2-1-1
+F/A        x-0-3-2-1-1
+F(add9) (t)1-x-3-2-1-3
+Fsus2   (t)1-3-3-0-1-1  or x-x-3-0-1-1
+Gsus4      3-x-0-0-1-3
+G/B        x-2-0-0-0-3
+
+---------------------------------------------------------------------------
+
+[Intro]
+| Dm/F | C/E | Dm7 | Am |
+| Dm/F | C/E | Dm7 | G |
+
+[Verse 1]
+C/E          Dm/F           Gsus4         G
+ I heard you on the wireless back in Fifty Two 
+C/E     Dm/F          Gsus4     G
+ Lying awake intent at tuning in on you 
+C/E       Dm/F           Gsus4           G
+ If I was young it didn't stop you coming through 
+
+[Bridge] (part)
+ C/E  Dm/F | Gsus4 G |
+(Ow-A-ow-a)
+
+[Verse 2]
+C/E            Dm/F            Gsus4       G
+ They took the credit for your second symphony 
+C/E        Dm/F           Gsus4       G
+ Rewritten by machine and new technology
+C/E        Dm/F           Gsus4            G
+ And now I understand the problems you can see 
+
+[Bridge]
+C/E  Dm/F   Gsus        G 
+(Ow-a-ow-a)   I met your children 
+ C/E  Dm/F   Gsus          G 
+(Ow-a-ow-a)   What did you tell them? 
+
+[Chorus]
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+
+[Interlude]
+C        G/B      F/A
+Pictures came and broke your heart 
+Gsus4    Am9
+Ow-A-A-A-ow
+
+[Verse 3]
+C/E         Dm/F        Gsus4         G
+ And now we meet in an abandoned studio 
+C/E          Dm/F            Gsus4          G
+ We hear the playback and it seems so long ago 
+C/E        Dm/F       Gsus4           G
+ And you remember the jingles used to go 
+
+[Bridge]
+ C/E  Dm/F   Gsus          G 
+(Ow-a-ow-a)   You were the first one 
+ C/E  Dm/F   Gsus          G 
+(Ow-a-ow-a)   You were the last one 
+
+[Chorus]
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+
+[Interlude]
+C     G/B      F/A
+In my mind and in my car
+   C       G/B        F/A
+We can't rewind we've gone too far 
+Gsus4    Am9
+Ow-A-A-A-ow
+
+[Solo]
+| Dm/F G | C/E F |
+| Dm/F G | C/E F |
+| Dm/F G | E/G# Am (break] |
+
+[Link 1]             1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+| Dm/F | C/G | Dm7 | G     Am    F   |  Am    F   G   |
+
+[Chorus]
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+
+[Interlude]
+C     G/B      F/A
+In my mind and in my car, 
+   C       G/B        F/A
+We can't rewind we've gone too far 
+C        G/B      F/A
+Pictures came and broke your heart, 
+C/G     G        F*  Fadd9 Fadd9 [break]
+Put the blame on V   T     R 
+
+[Link 2] (= verse)
+    C/E Dm Gsus4 G     C/E          Dm       Gsus4  G 
+You a-------re a radio sta-ah-ah-ah-ah-ah-ah-ar 
+    C/E Dm Gsus4 G     C/E          Dm       Gsus4  G 
+You a-------re a radio sta-ah-ah-ah-ah-ah-ah-ar 
+
+[Chorus]
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+C                Fsus2
+Video killed the radio star 
+
+[Outro]
+     C                Fsus2        C                Fsus2
+     Video killed the radio star   Video killed the radio star   
+(You a--------------re     a radio star)
+     C                Fsus2        C                Fsus2
+     Video killed the radio star   Video killed the radio star   
+(You a--------------re     a radio star)
+
+(repeat and fade)

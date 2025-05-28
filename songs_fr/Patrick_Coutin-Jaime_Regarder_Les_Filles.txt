@@ -1,0 +1,100 @@
+---------------------------------------------
+ Patrick Coutin - J'aime regarder les filles 
+---------------------------------------------
+Album : Coutin (1981)
+Tempo : 133
+E-mail: gwendal.mollo@orange.fr
+Tabbed by: newg    (http://profile.ultimate-guitar.com/newg/)
+
+Voir mon fichier guitar pro/powertab/tab et la partition de basse.
+
+Structures :
+    D           C        D                   C
+e|--2-----2--x--0--0--x--2----|-----2--2--x--0--0--0--x----|
+B|--3-----3--x--1--1--x--3----|-----3--3--x--1--1--1--x----|
+G|--2-----2--x--0--0--x--2----|-----2--2--x--0--0--0--x----|
+D|--0-----0--x--2--2--x--0----|-----0--0--x--2--2--2--x----|
+A|--------------3--3--x-------|--------------3--3--3--x----|
+E|----------------------------|----------------------------|
+
+    G           F        G                   F     C
+e|--3-----3--x--1--1--x--3----|-----3--3--x--1--x--0--x----|
+B|--0-----0--x--1--1--x--0----|-----0--0--x--1--x--1--x----|
+G|--0-----0--x--2--2--x--0----|-----0--0--x--2--x--0--x----|
+D|--0-----0--x--3--3--x--0----|-----0--0--x--3--x--2--x----|
+A|--2-----2--x--3--3--x--2----|-----2--2--x--3--x--3--x----|
+E|--3-----3--x--1--1--x--3----|-----3--3--x--1--x----------|
+
+
+[Intro]
+D C D C D C D C
+
+[Verse 1]
+D      C   D   C
+J'aime
+D           C       D                   C      D     C    D  C     
+J'aime regarder les filles qui marchent sur la plage
+D        C         D            C         D       
+Sur leur peau le soleil caresse bien trop sage
+            C     D                 C           D       C     
+Le vent qui les décoiffe un gout de sel sur mes lèvres
+
+[Verse 2]
+G      F  G   F
+J'aime
+G           F         G           F           G       F   G   F
+J'aime regarder les filles qui marchent sur la plage
+G           F         G         F           G     
+Les hanches qui balancent et les sourires fugaces
+       F         G         F              G          
+Je regarde les vagues qui jouent avec leur corps
+
+[Verse 3]
+D      C   D   C
+J'aime
+D           C       D                   C      D     C    D  C     
+J'aime regarder les filles qui marchent sur la plage
+D          C             D          C           D       
+Leurs poitrines gonflées par le désir de vivre
+          C             D            C                D       C     
+Leurs yeux qui se détournent quand tu les regardes
+
+[Verse 4]
+G      F  G   F
+J'aime
+G           F         G           F           G       
+J'aime regarder les filles qui marchent sur la plage
+         F         G         F           G    
+Le soleil sur leur peau qui joue à cache-cache
+       F         G         F        G
+Et des ambres solaires le parfum volage
+
+[Verse 5]
+D      C   D   C
+J'aime
+D           C       D                   C      D     C    D  C     
+J'aime regarder les filles qui marchent sur la plage
+D          C             D          C           D
+Quand elles se déshabillent et font semblant d'être sages
+          C             D            C                D       C    
+Leurs yeux qui se demandent mais quel est ce garçon
+
+[Verse 6]
+G      F  G   F
+J'aime
+G           F         G           F           G       F   G   F
+J'aime regarder les filles qui marchent sur la plage
+G           F         G         F           G
+Leur ventre qui se colle sur le sable chaud
+       F         G               F        G
+Le vent qui les décoiffe et les sourires fugaces
+            F         G           F           G       
+J'aime regarder les filles qui marchent sur la plage
+
+[Outro]
+D      C
+J'aime      
+D
+Regarder les filles
+D
+Regarder les filles
