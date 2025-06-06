@@ -25,6 +25,7 @@
 					<select class="ncolumns leaf" id="langs">
 						<option value="en" selected="selected">en</option>
 						<option value="fr">fr</option>
+						<option value="all">ALL</option>
 						<option value="bw">BW</option>
 					</select>
 
@@ -52,6 +53,16 @@
 	</body>
 	<script>
 
+		function compareTitles( a, b ) {
+			if ( a["name"][0] < b["name"][0] ){
+				return -1;
+			}
+			if ( a["name"][0] > b["name"][0] ){
+				return 1;
+			}
+			return 0;
+		}
+
 		function populate_songs() {
 			$('.chords-text').empty();
 			var lang = $('#langs').val();
@@ -59,16 +70,14 @@
 			$('#songs').append('<option selected disabled>CLICK HERE & CHOOSE A SONG !</option>');
 			$.getJSON( "songs.json", function( data ) {
 
-				$(data).each(function(i,line){
-					if ( line['lang'] == lang ) {
+				$(data).sort(compareTitles).each(function(i,line){
+					if ( line['lang'] == lang || lang == 'all' ) {
 						artist = line['name'].slice(0,line['name'].length - 1).join("-").replace(/_/g,' ');
 						title = line['name'][line['name'].length - 1].replace(/_/g,' ');
 
 						name = artist + ' - ' + title;
 						path = line['path']
 						$('#songs').append('<option value=' + path + '>' + name + '</option>');
-
-						
 					}
 				});
 			});
