@@ -1,0 +1,182 @@
+---------------------------------------------------------------------------
+           I Can't Dance – Genesis
+---------------------------------------------------------------------------
+
+Writtten by: Banks/Collins/Rutherford
+From: "I Can't Dance" (1991)
+
+Tabbed by: maguri
+Tuning: Standard
+
+All the chords in intro, verse and chorus must be played without the 3rd, 
+they are neither major nor minor. The middle 8 has regular major and 
+minor chords.
+
+---------------------------------------------------------------------------
+
+capo: 1st fret
+play: A
+key: Bb
+
+---------------------------------------------------------------------------
+
+[Main riff]
+  A             A  G/A A       G/A  A             G    C   D     G/A
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|--1---3---------|
+G|2---2---------2-|--0-2-------0-0-|2---2---------0-|--0---2-----0-0-|
+D|2---2---------2-|--0-2-------0-0-|2---2---------0-|------0-----0-0-|
+A|0---0---------0-|--0-0-------0-0-|0---0-----------|--3---------0-0-|
+E|----------------|----------------|--------------3-|----------------|
+
+---------------------------------------------------------------------------
+
+CHORDS
+     E-A-D-G-B-e
+A    x-0-2-2-x-x
+G/A  x-0-0-0-x-x
+G    3-x-0-0-x-x
+C    x-3-x-0-1-x
+
+---------------------------------------------------------------------------
+
+[Intro]
+
+| 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + |
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+
+
+[Verse]
+
+A        A  G/A A
+ Hot sun beating  down
+G/A A                    G  C     D
+    Burning my feet just walking around
+G/A A        A G/A  A
+     Hot sun making me sweat
+G/A A                        G       C  D
+   'Gators getting close, hasn't got me yet
+
+
+[Chorus]
+
+A              A G/A A
+I can't dance, I can't talk
+G/A  A                      G       C D
+ The only thing about me is the way I walk
+A              A G/A A
+I can't dance, I can't sing
+G/A A                      G  C    G   | A | % |
+    I'm just standing here selling everything
+
+
+[Verse]
+
+A                   A  G/A A
+ Blue jeans sitting on   the  beach
+G/A   A                        G     C      D
+  Her dog's talking to me, but she's out of reach
+A                 A G/A A
+ She's got a body under that shirt
+G/A   A                          G       C      D
+  But all she wants to do is rub my face in the dirt
+
+
+[Chorus]
+
+A              A G/A A
+I can't dance, I can't talk
+G/A  A                      G       C D
+ The only thing about me is the way I walk
+A              A G/A A
+I can't dance, I can't sing
+G/A A                      G  D    G  D
+    I'm just standing here selling   [Oh and ...]
+
+
+[Middle 8]
+
+        F                         Em
+Oh, and checking everything is in place
+         | D |                  | D |
+You never know who's looking on
+
+
+[Interlude]
+
+| 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + |
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+
+
+[Verse]
+
+A                    A    G/A A
+ Young punk spilling beer on  my shoes
+G/A A                              G        C  D
+    Fat guy's talking to me trying to steal my blues
+A                 A G/A A
+ Thick smoke, see her smiling through
+G/A        A                              G    C    D
+ I never thought so much could happen just shooting pool
+
+
+[Chorus]
+
+    A              A G/A A
+But I can't dance, I can't talk
+G/A  A                      G       C D
+ The only thing about me is the way I walk
+A              A G/A A
+I can't dance, I can't sing
+G/A A                      G  D    G  D
+    I'm just standing here selling   [Oh and ...]
+
+
+[Middle 8]
+
+        F                         Em
+Oh, and checking everything is in place
+         | D |                  | D |
+You never know who's looking on
+C                Bb              G
+ The perfect body with a perfect face ...
+
+
+[Interlude]
+
+| 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + |
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+
+
+[Chorus]
+
+A              A G/A A
+I can't dance, I can't talk
+G/A  A                      G       C D
+ The only thing about me is the way I walk
+A              A G/A A
+I can't dance, I can't sing
+G/A A                      G  D    G  D  A 
+    I'm just standing here selling everything
+
+
+[Interlude]
+
+| 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + | 1 + 2 + 3 + 4 + |
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+
+
+[Coda]
+
+| A             A | G/A A       G/A | A             G |   D   G     G   |
+  I can’t walk
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+  I can’t dance
+| A             A | G/A A       G/A | A             G |   D   G     G   |
+  I can’t walk
+| A             A | G/A A       G/A | A             G |   C   D     G/A |
+  I can’t dance
+
+(repeat and fade)
