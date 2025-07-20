@@ -1,21 +1,3 @@
-Chords used:
-
-NOTE: all chords in the verses and chorus are played with your 3rd and 
-4th finger on the 3rd frets of the 5th and 6th strings. (xxxx33)
-
-G        320033
-G*       355433
-Dsus4/F# 2x0233
-E        022100
-Em7      022033
-Dsus4    xx0233
-Cadd9    x32033
-A7sus4   x02033
-A        577655
-B5       x244xx
-F#       244322
-
-
 [Intro]
 
 G   Dsus4/F#  Em7  Dsus4  Cadd9  Dsus4  G   Dsus4
