@@ -1,11 +1,3 @@
-There was a pretty good one already on here but there was an E on the chorus
-in that one where I've put a C#m, I think this way is correct. There are a
-couple of tabs with the intro on too so I won't bother with that. It's best
-to just play around with it if you're playing lead. The chords are pretty
-basic. The pattern for the verse can be a bit of a pain at first but other
-than that it's all very straight forward.
-
-
 [Verse]
 A
 Tender is the night
@@ -30,8 +22,10 @@ A                     D      C
 C'mon, c'mon, c'mon,     get through it
 A                     C#m             D
 C'mon, c'mon, c'mon,     love's the greatest thing
-(Repeat once) 
-
+A                     D      C   
+C'mon, c'mon, c'mon,     get through it
+A                     C#m             D
+C'mon, c'mon, c'mon,     love's the greatest thing
 C#m       D
 That we have
 C#m                   D
@@ -41,10 +35,10 @@ Waiting for that feeling
 A                G          A
 Waiting for that feeling to come
 
-Grahams bit : 2x
       A                    E       A
 Oh my baby, oh my baby, oh why, oh my
-
+      A                    E       A
+Oh my baby, oh my baby, oh why, oh my
 
 [Verse]
  A
@@ -70,8 +64,10 @@ A                     D      C
 C'mon, c'mon, c'mon,     get through it
 A                     C#m             D
 C'mon, c'mon, c'mon,     love's the greatest thing
-(Repeat once) 
-
+A                     D      C   
+C'mon, c'mon, c'mon,     get through it
+A                     C#m             D
+C'mon, c'mon, c'mon,     love's the greatest thing
 C#m       D
 That we have
 C#m                   D
@@ -81,12 +77,37 @@ Waiting for that feeling
 A                G          A
 Waiting for that feeling to come
 
-Grahams bit : 2x
+      A                    E       A
+Oh my baby, oh my baby, oh why, oh my
       A                    E       A
 Oh my baby, oh my baby, oh why, oh my
 
+[Instrumental]
+      A                    E       A
 
-Repeat Grahams bit
+
+[Chorus]
+A                     D      C   
+C'mon, c'mon, c'mon,     get through it
+A                     C#m             D
+C'mon, c'mon, c'mon,     love's the greatest thing
+A                     D      C   
+C'mon, c'mon, c'mon,     get through it
+A                     C#m             D
+C'mon, c'mon, c'mon,     love's the greatest thing
+C#m       D
+That we have
+C#m                   D
+I'm waiting for that feeling
+C#m               D
+Waiting for that feeling
+A                G          A
+Waiting for that feeling to come
+
+      A                    E       A
+Oh my baby, oh my baby, oh why, oh my
+      A                    E       A
+Oh my baby, oh my baby, oh why, oh my
 
 
 [Verse]
@@ -113,8 +134,10 @@ A                     D      C
 C'mon, c'mon, c'mon,     get through it
 A                     C#m             D
 C'mon, c'mon, c'mon,     love's the greatest thing
-(Repeat once) 
-
+A                     D      C   
+C'mon, c'mon, c'mon,     get through it
+A                     C#m             D
+C'mon, c'mon, c'mon,     love's the greatest thing
 C#m       D
 That we have
 C#m                   D
@@ -124,13 +147,6 @@ Waiting for that feeling
 A                G          A
 Waiting for that feeling to come
 
-Grahams bit : 2x
       A                    E       A
 Oh my baby, oh my baby, oh why, oh my
-
-Repeat Grahams bit 6x
-
-
-Damon plays the chords barred but I think the B and high E strings are open.
-That sounds great if you've got the full band playing but if it's just one
-guitar, you're better off sticking to the standard chords.
+(x6)
