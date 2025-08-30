@@ -1,36 +1,3 @@
-Champagne Supernova
-Oasis
-
-(Chords used)
-
-Asus2    (x02200)
-Asus2/G  (3x2200)
-Asus2/F# (2x2200)
-Asus2/E  (0x2200)
-A        (x02220)
-G        (3x0033)
-D/F#     (2x0232)
-E        (022100)
-G*       (355433)
-A*       (577655)
-D        (xx0232)
-F        (133211)
-
-(Tab for the chord progression used throughout each verse and the first 
-chorus)
-
-    Asus2          Asus2/G        Asus2/F#       Asus2/E
-e|----0-0---0-0-0----0-0---0-0-0----0-0---0-0-0----0-0---0-0-0--|
-B|----0-0---0-0-0----0-0---0-0-0----0-0---0-0-0----0-0---0-0-0--|
-G|----2-2---2-2-2----2-2---2-2-2----2-2---2-2-2----2-2---2-2-2--|
-D|----2-2---2-2-2----2-2---2-2-2----2-2---2-2-2----2-2---2-2-2--|
-A|--0-----0-----------------------------------------------------|
-E|-----------------3-----3--------2-----2--------0-----0--------|
-
-(NOTE: Use this rhythm and chord progression when playing all verses and 
-the first chorus)
-
-
 [Verse]
 
 Asus2
