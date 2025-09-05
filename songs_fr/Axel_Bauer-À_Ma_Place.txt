@@ -1,6 +1,6 @@
 Intro : Em Em4
 
-(Premier couplet : en arpège sur 3 cordes graves)
+[LUI]
        C                    Em9
 Serait-elle à ma place plus forte qu'un homme
        C                        Em9
@@ -19,7 +19,7 @@ Se peut-il qu'on nous aime
 Pour ce que nous sommes
 
 
-(couplet 2)
+[ELLE]
     Em                        Em7
 Se met-il à ma place quelques fois
           C                         Am       Asus2                                        
@@ -38,7 +38,7 @@ Faut-il que je cède Faut il que je saigne
 Pour qu'il m'aime aussi pour ce que je suis
 
 
-(pont)
+[ELLE/LUI]
  C                      Em       
       Pourrait-il faire en sorte (Ferait-elle pour
 C                   Em       
@@ -48,7 +48,7 @@ Pas)      Pourrait il faire encore (encore un
   Bm                Am       
 Effort) un geste un pas un pas vers moi...
 
-(refrain)
+[ENSEMBLE]
       C                        Dmaj11
 Je n'attends pas de toi que tu sois la même
       C                        Em
@@ -56,7 +56,7 @@ Je n'attends pas de toi que tu me comprennes,
 C                Bm                      Em Em4
 Seulement que tu m'aimes pour ce que je suis
 
-(couplet 3)
+[LUI]
     Em                          Em7
 Se met-elle à ma place quelques fois
          C                       Am      Asus2 
@@ -74,7 +74,7 @@ Mon âme soeur cherche l'erreur
          C               Am
 Plus mon sang se vide et plus tu as peur
 
-(pont)
+[LUI/ELLE]
 C                      Em       
 Faut-il que je t'apprenne (je ne demande
 C                       Em       
@@ -84,7 +84,7 @@ tu viens) Faut-il vraiment que tu saches (tout ce que tu
 Bm                  Am       
 caches) Le doute au fond de moi (au fond de toi)
 
-(refrain)
+[ENSEMBLE]
       C                        Dmaj11
 Je n'attends pas de toi que tu sois la même
       C                        Em
@@ -97,7 +97,7 @@ Seulement que tu m'aimes pour ce que je suis
 (interlude)
 C Dsus2/F# Em Dsus2/F# (1 mesure chacun)
 
-(outro)
+[ENSEMBLE]
 C               Dsus2/F#                                            
        Quand je doute
          Em                
