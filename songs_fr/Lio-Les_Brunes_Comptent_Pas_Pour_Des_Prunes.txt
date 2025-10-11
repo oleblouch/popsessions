@@ -1,0 +1,131 @@
+; Les brunes comptent pas pour des prunes
+; (Lio)
+; Tonalité d'origine : G
+
+[Intro]
+
+  G  C  D          x2
+; Instrumental
+
+[V1]
+        G     C
+ Tout l'monde
+          D                   G                     C D
+ Répète encore que les hommes préfèrent les blondes
+        G        C
+ Qu'ils fondent
+            D          G                    C D
+ Pour une décolorée en moins d'une seconde
+        C                    D
+ J'ai l'impression qu'ils confondent
+    C                  D
+ Et la Joconde à moins qu'on la tonde
+
+
+[C1]
+             G                    C D
+ C'est quand même bien une brune
+                     G                   C D
+ Les brunes comptent pas pour des prunes
+
+
+[V2]
+     G      C
+ Certaines
+              D                G                   C D
+ Brunettes se font app'ler des blondes vénitiennes
+    G     C
+ Vilaines
+                 D                  G                C D
+ Menteuses elles trichent et puis à quoi ça les mène ?
+    C                       D
+ Il faudrait qu'on les prévienne
+   C                     D
+ Sofia Lauren J'suis pas daltonienne
+
+[C]
+             G                   C D
+ C'est quand même bien une brune
+                     G                   C D G
+ Les brunes comptent pas pour des prunes
+
+
+[Bridge 1]
+ G            C            D      G
+ On a du caractère et dans nos artères
+                         C
+ C'est du sang chaud qui coule
+            D
+ On la joue pas cool
+
+
+[C2]
+ G                    C D
+ Attention aux brunes
+                     G                   C D
+ Les brunes comptent pas pour des prunes
+
+
+[Bridge 2]
+ B            E            F#    B
+ On a plus d'idées que les péroxydées
+                    E              F#        B
+ c'est sûr qu'on en jette plus que les blondinettes
+              E            F#             B
+ On a plus d'éclat que ces pauvres filles là
+                D
+ Et puis voilà, et même si
+
+[V3]
+ G            C
+ Tout l'monde
+          D                   G                     C D
+ Répète encore que les hommes préfèrent les blondes
+        G        C
+ Qu'ils fondent
+            D          G                   C D
+ Pour une décolorée en moins d'une seconde
+        C                    D
+ J'ai l'impression qu'ils confondent
+    C                  D
+ Et la Joconde à moins qu'on la tonde
+
+
+[C2]
+             G                   C D
+ C'est quand même bien une brune
+                     G                   C D G
+ Les brunes comptent pas pour des prunes
+
+
+[Bridge 1]
+ G            C            D      G
+ On a du caractère et dans nos artères
+                         C
+ C'est du sang chaud qui coule
+            D
+ On la joue pas cool
+
+
+[Instrumental]
+ G         C         D
+ Ouap Ouap Choubidou Ouap
+ G         C         D
+ Ouap Ouap Choubidou Ouap (les choeurs continuent)
+
+
+[Outro]
+ G                    C D
+ Attention aux brunes
+                     G                   C D
+ Les brunes comptent pas pour des prunes
+ G                     C D
+ Attention aux brunes
+                     G                   C D
+ Les brunes comptent pas pour des prunes
+
+
+;-----------------------------------------
+; Les brunes comptent pas pour des prunes
+; Transcription perso Denys (V:aa)
+; proposée sur UG
