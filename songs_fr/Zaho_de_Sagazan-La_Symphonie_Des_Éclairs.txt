@@ -1,7 +1,3 @@
-** Pour que ce soit plus facile à la guitare, baisser les accords d'un demi-ton et mettre Capo 1. **
-** For an easier time on the guitar, lower the chords by one semitone + Capo 1. **
-
-
 [Intro]
 Ab      Dbm      Ab      Dbm
 Gbm     Dbm      Ab      Ab

@@ -1,12 +1,9 @@
-[Verse]
-
 Asus2
 How many special people change
 Asus2/G
 How many lives are living strange
 Asus2/F#                              Asus2/E
 Where were you while we were getting high
-
 Asus2
    Slowly walking down the hall
 Asus2/G
@@ -14,9 +11,7 @@ Faster than a cannonball
 Asus2/F#                              Asus2/E
 Where were you while we were getting high
 
-
 [Chorus]
-
                  Asus2
 Someday you will find me
                    Asus2/G
@@ -28,20 +23,16 @@ Someday you will find me
                    Asus2/G
 caught beneath the landslide
      Asus2/F#               Asus2/E
-In a champagne supernova, a champagne supernova in the
+In a champagne supernova, a champagne supernova in the sky
 Asus2     Asus2/G     Asus2/F#     Asus2/E
-sky
-
 
 [Verse]
-
 Asus2
 Wake up at dawn and ask her why
 Asus2/G
 A dreamer dreams, she never dies
 Asus2/F#                              Asus2/E
 Wipe that tear away now from your eye
-
 Asus2
    Slowly walking down the hall
 Asus2/G
@@ -51,7 +42,6 @@ Where were you while we were getting high
 
 
 [Chorus]
-
                  A
 Someday you will find me
                    G
@@ -67,7 +57,6 @@ In a champagne supernova, a champagne supernova
 
 
 [Bridge]
-
        G*                                                 A*
 'Cause people believe that they're gonna get away for the summer
     G*                              D
@@ -75,26 +64,16 @@ But you and I, we live and die, the world's still spinning round
               E
 We don't know why............why, why, why, why
 
-
-[Interlude]
-
-Asus2   Asus2/G   Asus2/F#   Asus2/E
-
-
-[Solo]
-
-Asus2   Asus2/G   Asus2/F#   Asus2/E
-
+[Interlude + solo]
+Asus2   Asus2/G   Asus2/F#   Asus2/E (x2)
 
 [Verse]
-
 Asus2
 How many special people change
 Asus2/G
 How many lives are living strange
 Asus2/F#                              Asus2/E
 Where were you while we were getting high
-
 Asus2
    Slowly walking down the hall
 Asus2/G
@@ -104,7 +83,6 @@ Where were you while we were getting high
 
 
 [Chorus]
-
                  A
 Someday you will find me
                    G
@@ -120,7 +98,6 @@ In a champagne supernova, a champagne supernova
 
 
 [Bridge]
-
        G*                                                 A*
 'Cause people believe that they're gonna get away for the summer
     G*                              D
@@ -128,24 +105,14 @@ But you and I, we live and die, the world's still spinning round
               E
 We don't know why............why, why, why, why
 
-
 [Interlude]
-
-A     G     D/F#    F  G*
-A     G     D/F#    F  G*
-A     G     D/F#    F  G*
-
-
+A     G     D/F#    F  G* (x3)
 [Solo]
-
 A     G     D/F#    F  G*   F  G*  F  G*
-
 Asus2   Asus2/G   Asus2/F#   Asus2/E
 Asus2   Asus2/G   Asus2/F#   Asus2/E
-
 
 [Verse]
-
 Asus2
 How many special people change
 Asus2/G
@@ -169,9 +136,6 @@ We were getting high
                 Asus2/E
 We were getting high
 
-
 [Outro]
-
 Asus2   Asus2/G   Asus2/F#   F   G*   Asus2
-
 F   G*   Asus2

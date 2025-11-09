@@ -1,18 +1,8 @@
-I think this is about right, it's pretty much the same chords all the way through. For years I have 
-wondered what the line before 'but we haven't been introduced' was, it seems it's German for 'you're very
-beautiful'.
-Comments/corrections welcome, please rate.
-
-You could try playing C7 instead of C.
-
-
 [Intro]
 
 | Gm      | Gm      | C       | C        |
 | F       | F       | Eb      | Eb  F# F |
-| Gm      | Gm      | C       | C        |
-| F       | F       | Eb      | Eb  F# F |
-
+(x2)
 
 [Verse 1]
 
@@ -28,33 +18,45 @@ On sunny beaches take your chances, looking for
 
 [Chorus]
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
 F                                   Eb  F# F
 Always should be someone you really love
 
 
 [Verse 2]
 
- Gm                       C
-Avoiding all work, 'cause there's none available
-     F                              Eb                   F#  F
-Like battery thinkers, count your thoughts on 1, 2, 3, 4, 5, fingers
+ Gm                   
+Avoiding all work, 
+        C
+'cause there's none available
+     F                             
+Like battery thinkers, 
+            Eb                   F#  F
+count your thoughts on 1, 2, 3, 4, 5, fingers
 Gm                 C
 Nothing is wasted, only reproduced
-    F                            Eb                             F#   F
-You get nasty blisters, du bist sehr schön, but we haven't been introduced
+    F                       
+You get nasty blisters, 
+        Eb                             F#   F
+du bist sehr schön, but we haven't been introduced
 
 
 [Chorus]
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
 F                                   Eb  F# F
 Always should be someone you really love
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
 F                                   Eb  F# F
 Always should be someone you really love
 
@@ -69,25 +71,33 @@ F           Eb      F#      F
 
 [Chorus]
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
-F                                   Eb
-Always should be someone you really love
-
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
 F                                   Eb  F# F
 Always should be someone you really love
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
 F                                   Eb  F# F
 Always should be someone you really love
 
-Gm                                                    C
-Girls who are boys who like boys to be girls who do boys like they're girls who do girls like they're boys
-F                                  Eb  F# F
-Always should be someone to really love
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
+F                                   Eb  F# F
+Always should be someone you really love
+
+Gm                                                 
+Girls who are boys who like boys to be girls who do 
+C
+boys like they're girls who do girls like they're boys
+F                                   Eb  F# F
+Always should be someone you really love
 
 
 [Outro]

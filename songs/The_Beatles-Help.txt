@@ -1,11 +1,3 @@
-Help!
-(Lennon/McCartney)
-The Beatles
-Help! (1965)
-
-A6  x02222
-
-
 [Intro]
 
 Bm                Bm/A
@@ -32,10 +24,14 @@ Now I find I've changed my mind, I've opened up the doors.
 
 [Chorus]
 
- Bm                                 Bm/A    G                            G/F#
-Help me if you can I'm feeling down, and I do appreciate you being 'round.
- E                                                  A
-Help me get my feet back on the ground, won't you please please help me.
+ Bm                                 Bm/A    
+Help me if you can I'm feeling down, 
+    G                            G/F#
+and I do appreciate you being 'round.
+ E                                    
+Help me get my feet back on the ground, 
+              A
+won't you please please help me.
 
 
 [Verse]
@@ -52,10 +48,14 @@ I know that I just need you like I've never done before.
 
 [Chorus]
 
- Bm                                 Bm/A    G                            G/F#
-Help me if you can I'm feeling down, and I do appreciate you being 'round.
- E                                                 A
-Help me get my feet back on the ground, won't you please please help me.
+ Bm                                 Bm/A    
+Help me if you can I'm feeling down, 
+    G                            G/F#
+and I do appreciate you being 'round.
+ E                                    
+Help me get my feet back on the ground, 
+              A
+won't you please please help me.
 
 
 [Verse]
@@ -72,9 +72,13 @@ Now I find I've changed my mind, I've opened up the doors.
 
 [Chorus]
 
- Bm                                 Bm/A    G                            G/F#
-Help me if you can I'm feeling down, and I do appreciate you being 'round.
- E                                                  A               F#m
-Help me get my feet back on the ground, won't you please please help me.
+ Bm                                 Bm/A
+Help me if you can I'm feeling down, 
+    G                            G/F#
+and I do appreciate you being 'round.
+ E                                     
+Help me get my feet back on the ground, 
+             A               F#m
+won't you please please help me.
              A  [ A6 ]
 Help me, help me, ooo.
