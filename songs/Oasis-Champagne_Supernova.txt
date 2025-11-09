@@ -22,8 +22,10 @@ in a champagne supernova in the sky
 Someday you will find me
                    Asus2/G
 caught beneath the landslide
-     Asus2/F#               Asus2/E
-In a champagne supernova, a champagne supernova in the sky
+     Asus2/F#            
+In a champagne supernova, 
+   Asus2/E
+a champagne supernova in the sky
 Asus2     Asus2/G     Asus2/F#     Asus2/E
 
 [Verse]
@@ -57,12 +59,17 @@ In a champagne supernova, a champagne supernova
 
 
 [Bridge]
-       G*                                                 A*
-'Cause people believe that they're gonna get away for the summer
-    G*                              D
-But you and I, we live and die, the world's still spinning round
+       G*                         
+'Cause people believe that they're 
+                        A*
+gonna get away for the summer
+    G*                         
+But you and I, we live and die, 
+     D
+the world's still spinning round
               E
-We don't know why............why, why, why, why
+We don't know why............
+why, why, why, why
 
 [Interlude + solo]
 Asus2   Asus2/G   Asus2/F#   Asus2/E (x2)
@@ -98,12 +105,17 @@ In a champagne supernova, a champagne supernova
 
 
 [Bridge]
-       G*                                                 A*
-'Cause people believe that they're gonna get away for the summer
-    G*                              D
-But you and I, we live and die, the world's still spinning round
+       G*                         
+'Cause people believe that they're 
+                        A*
+gonna get away for the summer
+    G*                         
+But you and I, we live and die, 
+     D
+the world's still spinning round
               E
-We don't know why............why, why, why, why
+We don't know why............
+why, why, why, why
 
 [Interlude]
 A     G     D/F#    F  G* (x3)
