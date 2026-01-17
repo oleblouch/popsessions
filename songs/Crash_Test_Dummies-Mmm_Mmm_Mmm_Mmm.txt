@@ -1,0 +1,151 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+           TAB for Mmm Mmm Mmm Mmm (Crash Test Dummies)
+           Tabbed by Bernardo Siu (bsiu@malloco.ing.puc.cl)
+           Added To UG By Mikhailo
+
+(CAPO ON 3RD FRET)
+
+        This is the way I play this song on my accoustic. The following
+tab is based on the chords given by Liz Myers.
+
+        For each chord written below, play the following sequence:
+
+     C               Am              G               F
+e|---------0-----|---------0-----|---------3-----|---------1-----|
+B|---1-----1--1--|---1-----1--1--|---3-----3--3--|---1-----1--1--|
+G|---0--------0--|---2--------2--|---4--------4--|---2--------2--|
+D|------2--------|------2--------|------5--------|------3--------|
+A|---3-----------|---0-----------|---------------|---------------|
+E|---------------|---------------|---3-----------|---1-----------|
+
+     G#              Em              Bm
+e|---------4-----|---------0-----|---------2-----|
+B|---4-----4--4--|---0-----0--0--|---3-----3--3--|
+G|---5--------5--|---0--------0--|---4--------4--|
+D|------6--------|------2--------|------4--------|
+A|---------------|---------------|---------------|
+E|---4-----------|---0-----------|---2-----------|
+
+    Dm              Cmaj7(Add F)
+e|---------1-----|---------0-----|
+B|---3-----3--3--|---0-----0--0--|
+G|---2--------2--|---0--------0--|
+D|------0--------|------3--------|
+A|---0-----------|---3-----------|
+E|---------------|---------------|
+
+So if the chords are, say, Am G G C you should play:
+
+     Am            G              G               C
+e|---------0-------------3--------------3---------------0-----|
+B|---1-----1--0----3-----3--3-----3-----3--0------1-----1--1--|
+G|---2--------0----4--------4-----4--------0------0--------0--|
+D|------2-------------5--------------5---------------2--------|
+A|---0--------------------------------------------3-----------|
+E|-----------------3--------------3---------------------------|
+
+            ^  Notice these differences  ^
+
+The differences written above are for transitions between chords.
+
+[Intro]
+
+
+Em Bm Em Bm F G F G
+
+Am   G                 C   C
+Once    there was this kid who
+F           C            G                C
+Got into an accident and couldn't come to school
+    F    F          G    C
+But when he finally came back
+G   C    F               C      G     G       G
+His hair had turned from black into bright white
+   G#               C
+He said that it was from when
+    G#               Cmaj7(Add F) Cmaj7(Add F) F F
+The cars had smashed soooo                     hard
+
+[CHORUS]
+
+Em     Bm   Em     Bm      F    G    F    G
+Mmmm Mmmm Mmmm Mmmm, Mmmm Mmmm Mmmm Mmmm
+
+Am   G                C    C
+Once   there was this girl who
+F              C               G            C
+Wouldn't go to change with the girls in the change room
+    F    C              G    C
+But when   they finally made her
+G    C    F         C        G    G    G
+They saw    birthmarks all over her body
+    G#               C
+She couldn't quite explain it
+    G#             Cmaj7(Add F) Cmaj7(Add F) F F
+They'd always just been                      there
+
+
+[CHORUS]
+
+Em     Bm   Em     Bm      F    G    F    G
+Mmmm Mmmm Mmmm Mmmm, Mmmm Mmmm Mmmm Mmmm
+
+Am   G                C    C
+Once   there was this girl who
+F              C               G#           C
+Wouldn't go to change with the girls in the change room
+    F    C              G    C
+But when   they finally made her
+G    C    F         C        G    G    G
+They saw    birthmarks all over her body
+    G#               C
+She couldn't quite explain it
+    G#             Cmaj7(Add F) Cmaj7(Add F) F F
+They'd always just been                      there
+
+
+[BRIDGE]
+
+Dm        Dm  C    G      G
+Both girl and boy were glad
+Dm        Dm   C      G   F          G
+One kid had it worse than that
+       Am   G             C   C
+'Cause then   there was a boy whose
+F                C                 G            C
+Parents made him come right home directly after school
+    F    C            G     C
+And when they went to their church
+G    C     F        C        G            G       G
+They shook   and lurched all over the church floor
+   G#               C
+He couldn't quite explain it
+       G#          Cmaj7(Add F) Cmaj7(Add F) F     F
+They'd always just gone                      there
+
+
+PLAY CHORUS TWICE
+
+Outro is the same progression as the bridge. As my guitar doesn't have a
+built-in fade-out :-), I end this song like this:
+
+                                       C
+                                    e|---|
+                          (slower)  B|-1-|
+Dm Dm C G Em Bm Em Bm     F       G G]|-0-|        Let ring the last chord
+                                    D|---
+                                    A|-3-|
+                                    E|---|
+
++--------------------+------------------------------------------------------+
+| Bernardo Siu,      | &lt;-- (cut by the line)                                |
+| Departamento de    |     "..but still a man                               |
+| Ciencias de la     |      hears what he wants                             |
+| Computacion, PUC   |      to hear and disregards                          |
+| Santiago, Chile.   |      the rest" -- Simon &amp; Garfunkel                  |
+| bsiu@lascar.puc.cl +------------------------------------------------------+
+| bsiu@xxxxxxxxxxxxx | Ahora en su nueva direccion: bsiu@altar.ing.puc.cl   |
++--------------------+------------------------------------------------------+
