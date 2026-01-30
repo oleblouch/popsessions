@@ -1,88 +1,78 @@
+[Intro]
+Am (12x)
+
 [Verse 1]
-
-   Em                           Am                   D
-   Like the sand can seep right through your fingers so can all your days
-   Em                      Am               D
-   As those days go by you have me there to help you find
-   Em                        Am              D
-   The way I feel with you I know it's gonna last forever
-
+Am       Ammaj7   Am7        Dm                  
+Like the sand can seep right through your fingers
+E               Am   Am   Am   Am
+so can all your  days
+Am       Ammaj7  Am7       Dm               G
+As those days go by  you have me there to help you find
+    Cm    Cmmaj7    Cm7   Dm              G
+the way I feel with you I know it's gonna last forever
 
 [Chorus]
+Am             Dm             G                E              Am
+  And when the rain begins to fall, you are my rainbow in the sky,
+           Dm               G               E              Am
+and I will catch you if you fall, you never have to ask me why.
+             Dm             G                 E                Am
+And when the rain begins to fall, I'll be the sunshine in your life,
+              Dm             G            E               Am  Am  Am  Am
+you know that we can have it all and everything will be alri-----ght
 
-   Em           Am             D
-   And when the rain begins to fall
-              Bm             Em
-   You are my rainbow in the sky
-              Am               D
-   And I will catch you if you fall
-             Bm             Em
-   You never have to ask me why
-                Am             D
-   And when the rain begins to fall
-               Bm               Em
-   I'll be the sunshine in your life
-                 Am             D
-   You know that we can have it all
-                             Em
-   And everything will be allright
-
+[Interlude]
+Am Am Am Am
 
 [Verse 2]
-
-   Em                          Am            D                  Em
-   Time goes by so fast you've got to have a dream to just hold on
-                           Am             D
-   All my dreams of love began with the reality of
-   Em                     Am                  D
-   You and I believe that all the dreams will last forever
-
-
-[Chorus]
-
-   Em           Am             D
-   And when the rain begins to fall
-              Bm             Em
-   You are my rainbow in the sky
-              Am               D
-   And I will catch you if you fall
-             Bm             Em
-   You never have to ask me why
-                Am             D
-   And when the rain begins to fall
-               Bm               Em
-   I'll be the sunshine in your life
-                 Am             D
-   You know that we can have it all
-                             Em
-   And everything will be allright
-
-
-[Bridge]
-
-   Am         D            Bm           C       Am
-   Though the sun may hide we still can see the light
-        D                  Bm
-   that shines for you and me
-         C           D               Em
-   We'll be together all that we can be
-
+Am        Ammaj7 Am7         Dm           
+Time goes by so  fast you've got to have a
+E                  Am   Am   Am   Am
+dream to just hold on
+Am     Ammaj7    Am7    Dm             G
+All my dreams of love began with the reality of
+Cm      Cmmaj7 Cm7        Dm                  G
+you and I    believe that all the dreams will last forever.
 
 [Chorus]
+Am             Dm             G                E              Am
+  And when the rain begins to fall, you are my rainbow in the sky,
+           Dm               G               E              Am
+and I will catch you if you fall, you never have to ask me why.
+             Dm             G                 E                Am
+And when the rain begins to fall, I'll be the sunshine in your life,
+              Dm             G            E               Am  Am  Am  Am
+you know that we can have it all and everything will be alri-----ght
 
-   Em           Am             D
-   And when the rain begins to fall
-              Bm             Em
-   You are my rainbow in the sky
-              Am               D
-   And I will catch you if you fall
-             Bm             Em
-   You never have to ask me why
-                Am             D
-   And when the rain begins to fall
-               Bm               Em
-   I'll be the sunshine in your life
-                 Am             D
-   You know that we can have it all
-                             Em
-   And everything will be allright
+[Interlude]
+Am Am
+
+[Break]
+Dm         G            E              Am
+Though the sun behind     we still can see
+    Dm         G                  E    Am
+the light that shines for you and me
+      F           G               Am    Am   G
+We'll be together all that we can be
+
+[Chorus]
+Am             Dm             G                E              Am
+  And when the rain begins to fall, you are my rainbow in the sky,
+           Dm               G               E              Am
+and I will catch you if you fall, you never have to ask me why.
+             Dm             G                 E                Am
+And when the rain begins to fall, I'll be the sunshine in your life,
+              Dm             G            E               Am  Am  Am  Am
+you know that we can have it all and everything will be alri-----ght
+
+Am             Dm             G                E              Am
+  And when the rain begins to fall, you are my rainbow in the sky,
+           Dm               G               E              Am
+and I will catch you if you fall, you never have to ask me why.
+             Dm             G                 E                Am
+And when the rain begins to fall, I'll be the sunshine in your life,
+              Dm             G            E               Am  Am  Am  Am
+you know that we can have it all and everything will be alri-----ght
+
+[Outro]
+Am (repeat and fade)
