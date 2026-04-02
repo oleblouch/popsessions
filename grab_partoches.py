@@ -10,10 +10,13 @@ def parse_url(url, output_dir, overwrite=False):
     html_text = requests.get(url).text
     soup = BeautifulSoup(html_text, 'html.parser')
 
+    print(soup)
     for div in soup.body.find_all('div'):
         content = div.get('data-content')
         if content is None:
             continue
+
+    print(content)
 
     content = json.loads(content)
     store = content['store']
@@ -60,7 +63,7 @@ if __name__ == '__main__':
         urls = [ x.strip() for x in f.readlines() ]
 
     for url in urls:
-        #print(f'PARSE: {url}')
+        print(f'PARSE: {url}')
         parse_url(url, output_dir=args.output_dir, overwrite=args.overwrite)
 
     # update json
