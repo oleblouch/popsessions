@@ -2,7 +2,7 @@
 G    Cmaj7
 G    Cmaj7
 
-[Verse 1]
+[Girl]
    G
 You're a part time lover and a full time friend
 Cmaj7
@@ -12,7 +12,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 2]
+[Boy]
 G
 I kiss you on the brain in the shadow of a train
 Cmaj7
@@ -22,7 +22,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 3]
+[Girl]
 G
 Here is the church and here is the steeple
 Cmaj7
@@ -32,7 +32,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 4]
+[Boy]
 G
 The pebbles forgive me, the trees forgive me
 Cmaj7
@@ -42,7 +42,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 5]
+[Girl]
 G
 I will find my nitch in your car
 Cmaj7
@@ -53,16 +53,16 @@ Cmaj7
 else, but you...
 
 [Bridge]
-G
+G  [Boy]
 Du du du du du du dududu
-Cmaj7
+Cmaj7 [Girl&Boy]
 Du du du du du du dududu
 G
 Du du du du du du dududu
 Cmaj7
 du...
 
-[Verse 6]
+[Girl]
 G
 Up up down down left right left right B A start
 Cmaj7
@@ -72,7 +72,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 7]
+[Boy]
 G
 You are always trying to keep it real
 Cmaj7
@@ -82,7 +82,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 8]
+[Girl]
 G
 We both have shiny happy fits of rage
 Cmaj7
@@ -92,7 +92,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 9]
+[Boy]
 G
 Don Quixote was a steel driving man
 Cmaj7
@@ -102,7 +102,7 @@ I don't see what anyone can see, in anyone
 Cmaj7
 else, but you...
 
-[Verse 10]
+[Girl]
 G
 Squinched up your face and did a dance
 Cmaj7
@@ -113,14 +113,14 @@ Cmaj7
 else, but you...
 
 [Outro]
-G
+G    [Boy]
 Du du du du du du dududu
-Cmaj7
+Cmaj7  [Girl&Boy]
 Du du du du du du dududu
 G
 Du du du du du du dududu
 Cmaj7
 du...
 
-G
+G  [Girl&Boy]
 But you...
