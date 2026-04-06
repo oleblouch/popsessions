@@ -17,6 +17,9 @@ I never thought tonight could ever be
       F#
 this close to me
 
+[Instrumental]
+B    G#m  F#
+
 [Verse 2]
 B
 Just try to see in the dark
@@ -42,7 +45,7 @@ If only I was sure
 that my head on the door was a dream
 
 [Instrumental]
-(There's a part here with horns but the underliner is the B    G#m  F#  progression)
+B    G#m  F#  (x2)
 
 [Verse]
  B
@@ -66,5 +69,5 @@ then I could make it safe and clean
  E                                                     B
 if only I was sure that my head on the door was a dream
 
-(Repeat  B    G#m  F#  progression until you want it to end, unless of course you have 
-a trumpet like the recording.)
+[Outro]
+B    G#m  F#  (x...))
