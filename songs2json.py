@@ -17,7 +17,7 @@ def songs2json():
     songs += [ { 'lang':'bw','name':os.path.basename(x).replace('.txt','').split('-'), 'path':x } for x in sorted(txts) ]
 
     with open('songs.json','wt') as f:
-        json.dump(songs,f)
+        json.dump(songs,f, indent=4)
 
 if __name__ == '__main__':
     songs2json()

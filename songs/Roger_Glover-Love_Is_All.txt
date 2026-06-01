@@ -1,5 +1,8 @@
+[Intro]
+B       E       A       D
+
 [Verse]
-C       G            Am       F (*)
+C       G            Am       F
   Everybody's got to live together
 C         G             Am      F
   All the people got to understand
@@ -9,9 +12,13 @@ G
   Come on and join the band
 
 [Verse]
+C       G            Am       F
 Well, all you need is love and understanding
+C       G            Am       F
 Ring the bell and let the people know
+C       G            Am       F
 We're so happy and we're celebratin'
+G
 Come on and let your feelings show
 
 [Chorus]
@@ -19,44 +26,56 @@ Come on and let your feelings show
 Love is all, well love is all,
         G(**)                    C
 Love is all, can't you hear the call
-        Am        (Am/G ***)
+        Am        Am/G
 Oh, love is all you need
-        D[/ch](/[ch]F# ***) G                  C
+        D         G                  C
 Love is all you need at the Butterfly Ball
 
-INTRO again
+[INTRO again]
+B       E       A       D
 
 [Verse]
+C       G            Am       F
 Ain't you happy that we're all together
+C       G            Am       F
 At the ball in nature's countryside
+C       G            Am       F
 And although we're wearing different faces
+G
 Nobody wants to hide
 
 [Chorus]
         Am                 D
-Love is all, well love is all,
-        G(**)                    C
-Love is all, can't you hear the call
-        Am        (Am/G ***)
-Oh, love is all you need
-        D[/ch](/[ch]F# ***) G                  C
-Love is all you need at the Butterfly Ball
+Love is all and all is love and
+        G                    C
+It's easy, yes it's so easy
+        Am        Am/G          D
+At the Butterfly Ball where love is all
+G                  C
+   And it's so easy
+
+[EN TERNAIRE]
+B       E       A       D (x4)
 
 [Verse]
+C       G            Am       F
 All you need is love and understanding
+C       G            Am       F
 Hey, ring the bell and let the people know
+C       G            Am       F
 We're so happy and we're celebratin'
-Let your feelings show
+G
+    Let your feelings show
 
 [Chorus]
         Am                 D
-Love is all, well love is all,
-        G(**)                    C
-Love is all, can't you hear the call
-        Am        (Am/G ***)
-Oh, love is all you need
-        D[/ch](/[ch]F# ***) G                  C
-Love is all you need at the Butterfly Ball
+Love is all, yes love is all,
+        G                   C
+At the Butterfly Ball
+        Am        Am/G
+Love is big, love is small
+        D         G                  C
+Love is free and love is all at the Butterfly Ball
 
 [Outro]
 When you back's to the wall
