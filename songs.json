@@ -5572,6 +5572,14 @@
     {
         "lang": "fr",
         "name": [
+            "Lara_Fabian",
+            "Je_taime"
+        ],
+        "path": "songs_fr/Lara_Fabian-Je_taime.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Laurent_Voulzy",
             "Belle",
             "\u00cele",
