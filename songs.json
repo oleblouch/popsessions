@@ -5580,6 +5580,14 @@
     {
         "lang": "fr",
         "name": [
+            "Lara_Fabian",
+            "Tout"
+        ],
+        "path": "songs_fr/Lara_Fabian-Tout.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Laurent_Voulzy",
             "Belle",
             "\u00cele",
@@ -6060,6 +6068,14 @@
     {
         "lang": "fr",
         "name": [
+            "Notre_Dame_de_Paris",
+            "Belle"
+        ],
+        "path": "songs_fr/Notre_Dame_de_Paris-Belle.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Oph\u00e9lie_Winter",
             "Dieu_Ma_Donn\u00e9_La_Foi"
         ],
@@ -6177,6 +6193,14 @@
             "Mistral_Gagnant"
         ],
         "path": "songs_fr/Renaud-Mistral_Gagnant.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
+            "Romeo_et_Juliette",
+            "Les_Rois_du_Monde"
+        ],
+        "path": "songs_fr/Romeo_et_Juliette-Les_Rois_du_Monde.txt"
     },
     {
         "lang": "fr",
