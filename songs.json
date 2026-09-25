@@ -4927,6 +4927,14 @@
     {
         "lang": "fr",
         "name": [
+            "Disiz_et_Theodora",
+            "Melodrama"
+        ],
+        "path": "songs_fr/Disiz_et_Theodora-Melodrama.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Dominique_A",
             "Le_Twenty",
             "Two_Bar"
@@ -5398,6 +5406,14 @@
             "Tout_Cqui_Nous_S\u00e9pare"
         ],
         "path": "songs_fr/Jil_Caplan-Tout_Cqui_Nous_S\u00e9pare.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
+            "Joe_Dassin",
+            "A_toi_(mariage)"
+        ],
+        "path": "songs_fr/Joe_Dassin-A_toi_(mariage).txt"
     },
     {
         "lang": "fr",
