@@ -5961,6 +5961,14 @@
     {
         "lang": "fr",
         "name": [
+            "Mickey3D",
+            "Respire"
+        ],
+        "path": "songs_fr/Mickey3D-Respire.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Miossec",
             "Brest"
         ],
@@ -6164,6 +6172,14 @@
     {
         "lang": "fr",
         "name": [
+            "Pierre_de_Geyter",
+            "L'internationale"
+        ],
+        "path": "songs_fr/Pierre_de_Geyter-L'internationale.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Pierre_de_Maere",
             "Un_Jour_Je_Marierai_Un_Ange"
         ],
@@ -6273,6 +6289,14 @@
             "Tu_Ne_Me_Dois_Rien"
         ],
         "path": "songs_fr/Stephan_Eicher-Tu_Ne_Me_Dois_Rien.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
+            "St\u00e9phane_Eicher",
+            "Pas_d'ami_comme_toi"
+        ],
+        "path": "songs_fr/St\u00e9phane_Eicher-Pas_d'ami_comme_toi.txt"
     },
     {
         "lang": "fr",
@@ -6425,6 +6449,14 @@
             "Zen"
         ],
         "path": "songs_fr/Zazie-Zen.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
+            "Zebda",
+            "Motiv\u00e9s"
+        ],
+        "path": "songs_fr/Zebda-Motiv\u00e9s.txt"
     },
     {
         "lang": "fr",
