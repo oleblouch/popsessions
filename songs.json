@@ -5687,6 +5687,14 @@
     {
         "lang": "fr",
         "name": [
+            "Les_Innocents",
+            "Un_Monde_Parfait_(simple)"
+        ],
+        "path": "songs_fr/Les_Innocents-Un_Monde_Parfait_(simple).txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
             "Les_Negresses_Vertes",
             "Sous_Le_Soleil_De_Bodega"
         ],
