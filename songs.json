@@ -4928,6 +4928,15 @@
         "lang": "fr",
         "name": [
             "Disiz_et_Theodora",
+            "Melodrama",
+            "Amaj7"
+        ],
+        "path": "songs_fr/Disiz_et_Theodora-Melodrama-Amaj7.txt"
+    },
+    {
+        "lang": "fr",
+        "name": [
+            "Disiz_et_Theodora",
             "Melodrama"
         ],
         "path": "songs_fr/Disiz_et_Theodora-Melodrama.txt"
